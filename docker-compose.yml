@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333" # HTTP / REST API
+      - "6334:6334" # gRPC
+    volumes:
+      - ./qdrant_storage:/qdrant/storage:z
+    # Optional: uncomment to set specific environment options
+    # environment:
+    #   QDRANT__SERVICE__GRPC_PORT: 6334
+    #   QDRANT__SERVICE__HTTP_PORT: 6333

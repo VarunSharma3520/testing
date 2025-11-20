@@ -1,0 +1,24 @@
+[project]
+name = "testrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faiss-cpu>=1.12.0",
+    "fitz>=0.0.1.dev2",
+    "langchain-community>=0.4",
+    "langchain-ollama>=1.0.0",
+    "langchain-text-splitters>=1.0.0",
+    "ollama>=0.6.0",
+    "pdfminer-six>=20250506",
+    "pdfplumber>=0.11.7",
+    "pip>=25.3",
+    "pymupdf>=1.26.5",
+    "pypdf>=6.1.2",
+    "pytesseract>=0.3.13",
+    "qdrant-client[fastembed]>=1.15.1",
+    "sentence-transformers>=5.1.1",
+    "tiktoken>=0.12.0",
+]
+

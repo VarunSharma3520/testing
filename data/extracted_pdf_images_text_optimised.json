@@ -1,0 +1,714 @@
+[
+  {
+    "path": "./data/pdf_images\\image_page110_1.png",
+    "text": "GROUND POWER\n\nsw SW3\n\nPOS A POS A\nMISSION CMPTR 1, ALQ-126, ALE-39\nMSDRS AND L DD! INTFER BLANKER,\nPOS B ANTI SKID,\nMISSION CMPTR 2, OXY-GAGING AND\nAND POS A EQUIP ALR-67V) <1]\nPOS B\nSW2 SMS, AWW 4\nPOS A HARM, FLIR, LST,\n\nR DDI, HUD, RADAR, INS iN DECODER | <1)\nAND EHS!\n\nBON POS B SW4\nEXT PWR TACAN, ADC, UHF 1 AND\n\nRESET 2, RDR ALTMTR, CSC, POS A\nADF, BCN, RDR AUG cS\nRCVR, ILS, D L, IFF, POS B\nKIT, EMD, STBY INSTR, ICS, FCES\nKY-58, UFC, AND\nPOS A EQUIP\n\n[41> Aircraft 161520 and up.\n\n18AC-NFM-00-(12-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page128_1.png",
+    "text": "z Zz\nSo So\niz 5\noo lu\n| oo\nra uu\noi lu\nfan] a\nEs <\na rs\nWW Lu\nro) oo\nA a\noo lu\nfae) oO\nZz Zz\na =|\n3 g\n\n18AC-NFM-00-(15-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page134_1.png",
+    "text": "POS/INS UPDT SCL10 MK2\n\n7.2 300°/ 4.8\n1:02 hoo sé\n\n\\\n\n—\n410T \\ 420G\n\n/\n\nve] Lee] ex [us] [om] een Lo\nne |\n\nim \\\n=OmM AnNI<>Z 4—o1—_\n\nCSEL\n080°\n\nTIMEUFC AUTO\n\nNAME FUNCTION\n\nAj/P (autopilot) pushbutton. Displays the pilot relief options on the UFC.\n\n(2) ON/OFF pushbutton Engages the basic autopilot (heading\nhold), following selection of the A/P\npushbutton.\n\nOption display windows Displays AFCS options when A/P pressed.\n\nATTH - Attitude hold\n\nHSEL - Heading select\n\nBALT - Barometric altitude hold\nRALT - Radar altitude\n\nCPL — Coupled steering\n\nOption select pushbuttons Selects the AFCS mode displayed in the\nadjacent option select window.\n\nAIRCRAFT R Heading digital display Displays selected heading\n163985 AND UP\n\nCommand heading marker Displays selected heading\n\nHeading set switch Sets selected heading. Left decreases heading.\nRight increases heading.\n\nAutopilot/nosewheel steering Disengages AFCS\ndisengage lever (paddle switch)\n\n18AC-NFM-00-(17-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page149_1.png",
+    "text": "SYMBOL AIRSPEED\n\nSLOW\n\nSLIGHTLY SLOW\n\nON SPEED\n\nSLIGHTLY FAST\n\nVl\n7\nWY\n\np\\\n\\/\n~\nw\ni\\\nVW\nre\nw\n[\\\nVW\n~\nw\nN\\\nVW\na\nWY\ni\\\n\nSHADED INDICATES\nILLUMINATED\n\nINDEXER INDICATIONS ON\nAIRCRAFT 161353 THRU\n\n161519, WITH -906 ADC.\n\nAOA\n\n8.9° TO 90.0°\n\n8.1° TO 8.9°\n\n6.9° TO 8.1°\n\n6.4° TO 6.9°\n\n0° TO 6.4°\n\nINDEXER INDICATIONS ON\nAIRCRAFT 161520 AND UP.\n\nAOA\n\n9.3° TO 90.0°\n\n8.8° TO 9.3°\n\n7.4° TO 8.8°\n\n6.9° TO 7.4°\n\n0° TO 6.9°\n\n18AC-NFM-00-(125-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page172_1.png",
+    "text": "NORM\n\nR DAY AN iNS_A\nBo SF © BID\n\nJ\nREJ 2 1 @ —_ Cm <@) REJ 2 ‘OFF NIGHT\n\nAOA ALTAR Ts\n\nmu oe AOA 6 ATTD NORM , BRT es op LVL\n© OS OVID SYM\n\nRORO’ Oy\n\nSTBY\n\nAIRCRAFT 161353 THRU 163782 AIRCRAFT 163985 AND UP\n\n18AC-NFM-00-(138-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page178_1.png",
+    "text": "SYMBOLOGY REJECTION\n\n5L_. .-45 5L_. .-45\n\nREJECT 1 REJECT 2\n\n18AC-NFM-00-(23-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page182_1.png",
+    "text": "HEADING\n\nWATERLINE RATE OF\n\nHEADING CLIMB/\nWA AIRSPEED DESCENT\nfoie ain ; : sii Bbb| || [114 4 IIT IF |\nl l\n\nALTITUDE |\nANGLE OF ALTITUDE\nATTACK\n\nBAROMETRIC .\nSETTING ; BAROMETRIC\n\nFLIGHT PATH/ SETTING\nPITCH LADDER\n\nFLIGHT PATH/\npgs: PITCH LADDER\nAIRCRAFT G PEAK BANK FLASHING AIRCRAFT pe aie\n\nAIRCRAFT ANGLE VELOCITY C AIRCRAFT BANK ANGLE POINTER\n\nG POINTER VECTOR G\nAHRS MODE STANDBY MODE\n\nt\n\nANGLE OF\n\nATTACK \\\nSS HE\n\nv ebeceosoeceoerootonraorone=\n\nPEAK anoneee Ee FLIGHT PATH/\nAIRCRAFT G Fs PITCH LADDER\n\nVELOCITY sai BANK ANGLE POINTER\nVECTOR\n\nADC FAILURE\n\nSYMBOLOGY DATA SOURCE\n\nLITT anc RA rec GHA EEEEREEH ADC/INS\n\n1BAC-NFM-00-(24—-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page183_1.png",
+    "text": "\\/P\nPUSHBUTTON\n\nADF\nFUNCTION\nSELECT\nSWITCH\n\nPUSHBUTTON\nKEYBOARD\n\nCOMM 1\nVOLUME\nCONTROL\n\nCOMM 1\nCHANNEL\nDISPLAY\nWINDOW\n\nSCRATCHPAD OPTION\nWINDOW SELECT\nPUSHBUTTONS\n\nFUNCTION\nSELECTOR\nPUSHBUTTONS\n\nCHANNEL\nSELECTOR\nKNOB\n\nPILOT\nCUEING\n\nOPTION\nDISPLAY\nWINDOWS\n\nCOMM 2\nCHANNEL\nSELECTOR\nKNOB\n\nBRIGHTNESS\nCONTROL\nKNOB\n\nEMISSION\nCONTROL\nPUSHBUTTON\n\nCOMM 2\nVOLUME\nCONTROL\n\nCOMM 2\nCHANNEL\nDISPLAY\nWINDOW\n\n1BAC-NFM-00-(22-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page198_1.png",
+    "text": "INTERNAL MANUAL\nCANOPY HANDCRANK\n\nINTERNAL CANOPY\nSWITCH\n\nINTERNAL CANOPY\n\nJETTISON HANDLE\n\nco PUSH BUTTON TO OPEN\nte)\n\no\nOL OO EXTERNAL MANUAL CANOPY\noO\n\nACTUATION FITTING\nre]\n\nre) CANOPY JETTISON\nHANDLE INSIDE\n\nFOR EMERGENCY USE ONLY\nGRASP HANDLE EXTEND CABLE\n8 FT AND PULL TO\nJETTISON CANOPY\n(AIRCRAFT 161353 THRU 162477)\n\nEXTERNAL CANOPY EXTERNAL CANOPY\nJETTISON HANDLE SWITCH\n\n1BAC-NFM-00-(25-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page207_1.png",
+    "text": "STICKER\n\nSKU-3/A STICKER CLIP SE AASE EMERGENCY\nCLIP STRAP HANDLE OXYGEN\nSTRAP LUG GREEN\n\nRING\n\nLAP BELT EMERGENCY\nOXYGEN\nLANYARD\n\nLAP BELT\nATTACHMENT\nLUG\n\nRADIO\nBEACON\nACTUATOR\n\nRIGHT SIDE\n\nAIRCREW\nOXYGEN DISCONNECT\nHOSE AND\nCOMMUNICATION\nLEAD\n\nLAP BELT\nEMERGENCY\n\nOXYGEN GAGE\n\nSTICKER\n( my\n\nSp CUP\nr SS | LZ STRAP\nCUSHION —— A, a fo, - J\n\nSS\n\nSTICKER\nCLIP\nSTRAP\nLUG\nCONSOLE\nDISCONNECT\n\nLAP BELT\nATTACHMENT\nBULKHEAD LUG\n\nDISCONNECT LEFT SIDE\n\n1BAC-NFM-00-(28-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page208_1.png",
+    "text": "SKU-10/A\n\nOXYGEN/COMMUNICATIONS\nHOSE ASSEMBLY\n\n5 -\\w MANUAL EMERGENCY\nSTICKER : OXYGEN OPERATING\n. i HANDLE\n\nOXYGEN GAGE\n\nRADIO BEACON\n\nBEACON/EMERGENCY\nOXYGEN LANYARD\n\nLAP BELT ADJUSTER\n\nEMERGENCY OXYGEN\n\n(TOF) RELEASE MECHANISM\n\nFABRIC STRAP (5)\n\nSURVIVAL KIT\nRELEASE\nHANDLES\n\nBRACKET (2)\n\nMANUAL EMERGENCY\nOXYGEN OPERATING\n\nKIT CUSHION\n\nLOWER HARNESS\nLOCK LUG (2)\n\n(BOTTOM)\n\n18AC-NFM-O00-{144-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page235_1.png",
+    "text": "ATTITUDE\n\nATTITUDE\nREFERENCE\n\nALTITUDE\n\nALTIMETER\n\nANGLE OF\n\nFLIGHT\nCONTROL\nDERIVED\nAOA\n\nFLIGHT\nPATH\n\nMAGNETIC\nHEADING\n\nATTITUDE\nREFERENCE\n\nSTANDBY\nALTITUDE\n\nSTANDBY\nAIRSPEED\n\nLoD\n\nMAGNETIC\nCOMPASS\n\n18AC-NFM-00-(30-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page249_1.png",
+    "text": "HUD, HI, AND DDI BIT DISPLAY\n\n© A circle is displayed adjacent to the button only after\nindividual button is actuated and it passed functional test.\n\n® The diagonal line, 2 circles in the corners, film strip XX\n(map number), YY (select map number), and MAP button label\n\nonly appear on the horizontal indicator.\n\n® Stop button enables termination of CRT BIT.\n\nHUD, HSI AND DDI BIT DISPLAY\nAIRCRAFT 163985 AND UP\n\nGENERATED\nRASTER GREY SCALE\n\nmeee sa\n\nUPFRONT CONTROL BIT DISPLAY\n\n[xe] [=] ee] [ss] [on] fon) [or]\n\nNS L”\n\nFIRST 5-SECOND PERIOD\n\nAll outer segments of\nalphanumeric displays, all\nsegments of numeric displays,\nand all option cues illuminate.\n\n[we] [oe] ee [es] [or] foo) [oF\n\nSNS\n\nLL\n\nSECOND 5-SECOND PERIOD\n\nAll inner segments of\nalphanumeric displays, all\nsegments of numeric displays,\nand all option cues illuminate.\n\n1BAC-NFM-00-(34—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page250_1.png",
+    "text": "F/A-18A/B\nENGINE MONITOR\nINDICATOR BIT DISPLAY\n\nL_ ENGINE R\n\nF/A-18C/D\nIFE| BUTTON TEST DISPLAY\n\nL_ENGINE R\n\nTIME\nIP-S456\n\n(s ko + 4\n\n*\n\n100) 50 50 100\nTey BD\n\nPSI\n\nIllustrated indications appear for 8 seconds.\n\nAfter 8 seconds, digits cycle from 0 to 9;\nmost significant digit for RPM and FF only\nindicate 1 during this test.\n\nIFE| ALL SEGMENTS DISPLAY\nFIXED ZERO\n\nALPHA NUMERIC\nLEADING ONE\n\nBAB, * | HB\n\nX 100\n\n1BAC-NFM-00-(34-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page256_1.png",
+    "text": "POS= INS POSITION\nALN TIME= TIME IN SECONDS\nAQ= ALIGN QUALITY\nAC= STATE COUNTER\nFOR ALIGN MODE\nNAV TIME= TIME IN SECONDS\nPER= INS PERFORMANCE (EQUALS RADIAL ALN TIME=0522AQ=5 AC=4\nPOSITION ERROR IN NAUTICAL MILES/HR)\n\nPOS N38°45.66' WO90°21.90'\n\nNAV TIME=02335 PER=00.0\n\nTO CHECK INS PERFORMANCE, DO AN UPDATE,\nOVFLY, TO WAYPOINT 0. FLIGHT 1\n\nFLIGHT 1 THRU 5 (FLIGHT 1 SHOWN) - POST 1 DISPLAY\n\nERROR= IN N/S OR E/W, THE UPDATES\nARE ADDED ALGEBRAICALLY\nCUM= ABSOLUTE VALUE OF UPDATES\nVEL= VELOCITY IN N/S OR E/W DIRECTION 900.00 +015\nUPDATES= NUMBER OF UPDATES\n\nCUM\n\n000.0 +01.2\n\nFLIGHT 1\n\nFLIGHT 1 THRU 5 (FLIGHT 1 SHOWN) - POST 2 DISPLAY\n\n1BAC-NFM-00-{(36-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page275_1.png",
+    "text": "USABLE FUEL\nGALLONS| POUNDS | POUNDS\nJP-5 JP-4\na\nNumber 2\nLeft Engine Feed 265 1,790 1,710\nNumber 3\n\n1,317 8,960 8,560\n\nes [as _| sao [0 [sso] |\ni | 10 | i00 |\n\nTANK\n\nTotal Fuselage\n\nLeft and Right\nInternal Wings\n\nTotal Internal 1,487 }ronn0 | 9,670\n\nEXTERNAL TANK(S)\n\nElliptical Wing\n\nor Centerline Tank mio no\nCylindrical Wing\nor Centerline Tank 2,240 2,180\n\nNOTES\n\n® The fuel quantities, in pounds, are rounded\noff to the nearest 10 pounds. Therefore, the\nactual gallons times 6.8 or 6.5 will not necessarily\nagree with the pounds column.\n\n@ Fuel weights are based on JP-5 or JP-4 at\n6.8 or 6.5 pounds per gallon and a temperature\n\nof 15°C(59°F).\nINTERNAL\n\nWING TANK\n\nTANK 3\nRIGHT ENGINE\n\nFEED\nAIR\n\nREFUELING\nPROBE\n\nINTERNAL\nTANK 2 WING TANK\nLEFT ENGINE\n\nFEED\n\nFUEL QTY\n\n7 LB X 1000\n\nFe] Lis]\nTOTAL LBS\nLEFT RIGHT\n\nBINGO\nTRANS\nFEED\n\n1BAC-NFM-00-{(38-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page287_1.png",
+    "text": "iN N\n-FAANS NN N\nHL LAARAAAAN\nAAAS INXS\n\nrr\nra\n2\nis\n}\n\nI\nlu\na\n=\na\na\n\nVELOCITY - KNOTS os)\n\n1BAC-NFM-OO-(39-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page294_1.png",
+    "text": "AIRCRAFT THRU 161924\nBASIC AIRCRAFT WITH OR WITHOUT AIM-7 AND/OR AIM-9\n\neee 1\nCLC acon\nFEEEEEE Se\n\nZERO G FLIGHT, EXCEPT TRANSIENT, PROHIBITED TTT\n\nee\n|b beers See\n\nSo fe\n\nACCELERATION — G UNITS\n\nGROSS WEIGHT — 1000 LBS\n\nPTT} {|} tT? Ty yy te te EET TT Yt\n\nn\nF\nZz\n=)\no)\nz\no\na4\na\nLu\n|\nLu\n3)\nO\n<\n\n34 36 38 40 42 44 46 48\n\nGROSS WEIGHT — 1000 LBS\nNOTES\n\n@ See External Stores limitations for additional G limitations\n\n@ With the G limiter operating normally (no G-LIM 7.5 G caution)\nthe unsymmetrical maneuvers limit shown here is valid only\nfor full lateral stick displacement.\n\n@ For aircraft with G limiter, G limiter overshoots up to 8.0\nG (permitted by G limiter) do not constitute an overstress.\nOverstress inspection is not required unless MMP code 811 is\nset.\n\n18AC-NFM-00-(40-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page295_1.png",
+    "text": "AIRCRAFT 161925 AND UP\nBASIC AIRCRAFT WITH OR WITHOUT AIM-7 AND/OR AIM-9\n\n= a\nEEE ee A\nCCE\nCOAT =\nCOTTE\nCOTTE\n\nACCELERATION — G UNITS\n\nGROSS WEIGHT - 1000 LBS\n\nee ee —\nae\n\n| | tt oe aus oe a\nCERES ee oo\nCCE EEE eee\npt tT TT tT te tT tt TT TT ET TT TT TT\npti ttt tT tT tt tt tT tT ET ET ET ET TT\nSPERPSEEREA RES SSSsssssss\n| ZERO G us Z j CEPT TRANS|ENT, PRO a ED Ty | | | ft it tT Ey\n\nU2g0s Renee enn\n\n+\nbs g\nteeatete\n\n”\nFE\nZz\n=)\nO\n]\nz\no\n<\na\nLi\n—_l\nLu\nO\nOo\n<\n\nGROSS WEIGHT - 1000 LBS\nNOTES\n\n@ See External Stores Limitatons for additional G limitations.\n\n@ With the G limiter operating normally (no G-LIM 7.5 G caution),\nthe unsymmetrical maneuvers limit shown here is valid only\nfor full lateral stick displacement.\n\n@ For aircraft with G limiter, G limiter overshoots up to 8.0\nG (permitted by G limiter} do not constitute an overstress.\nOverstress inspection is not required unless MMP code 811 is\nset.\n\n18AC-NFM-00-(40-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page337_1.png",
+    "text": "LANDING GEAR DOWN\n\nSPEEDBRAKE FLAPS FULL\nRETRACT 250 Knots\n\nSPEEDBRAKE (as required)\n\nBreak\n\nENTER\nArmament Switches OFF\n\nLANDING CHECK LIST\nTOUCHDOWN\n\nThrottles idle\n\nWAVEOFF\n\nMil Power (Max if required)\nRetract gear and flaps only after\nsafe climb is established.\n\nBASE LEG\n\na Maintain on speed AOA\n\nNOTE\n\nMake all approaches on\nthe mirror or Fresnel\nlens optical landing\nsystems, when available.\n\nFINAL APPROACH\nMaintain on speed AOA\n\n1BAC-NFM-00-(44-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page366_1.png",
+    "text": "RUNWAY\nCENTERLINE\n\nO 4h.\n@\n\n2 PLANE FORMATION 3 PLANE FORMATION\n\n@\n\n©)\n\nRUNWAY\nCENTERLINE\n\nHy\n\n4 PLANE FORMATION\n\n18AC-NFM-00-(50-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page369_1.png",
+    "text": "2 cone of\nmaneuver\n\n3 cone of\nmaneuver\n\n4 cone of\nmaneuver\n\nCRUISE\n\n18AC-NFM-00-(51-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page397_1.png",
+    "text": "F404—GE-400 ENGINES\nEXHAUST GAS TEMPERATURE (EGT) - °C\n\n640 650 660 670 680 690 700 710 720 730 740 750 760 770 780 790 800 810 820 830\n\nENGINE INLET TEMPERATURE (1, )-\n\n91 92 93 94 95 96 97 98 99 100 101 102 103\nLOW PRESSURE COMPRESSOR (Nj ) - % RPM\n\nF404—GE-402 ENGINES\nEXHAUST GAS TEMPERATURE (EGT) -°C\n\nSSSR ELE ELLE ELLE LLL\nERE SSSSS SR EERE\n\nSERRE Pt te tT tT tT TT TE Tt\nSERRE SN || tt tt\nPt TT | AR\n\na\n=\nN\nSn\n\n1\n\n|_|\n|_|\n|\na\n\na 4n~ SRE\nae\n\n‘J\n\nN\\\n\nNy\n\n||\n=\na\n|_|\na\nN.\n\na\nPh |\n~ PR\nmia\nPNAS ooEP\nmal\nHf\nTIN.\nfy\n\niN,\n\nAAA | WV\n\nENGINE INLET TEMPERATURE (T, } - °C\n\nMLSS\n\nPy\nCREAT\nSS SnAe\nTAR\nSL\n\nI\n\n88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105\nLOW PRESSURE COMPRESSOR (N,) - % RPM\n\n1BAC-NFM-00-{52-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page458_1.png",
+    "text": "F/A-18B 161354 THRU 161360 WITHOUT CG CONTROL SYSTEM\n\n< FEED TANKS\n\nQo\n4\n>\n2\nx\n\nLASTS 10%\nLANCZS\n\nw\na\nZz\n5\nrs\na\n2\n3\n2.\n\\\n_\noo\n9S\nluo\n=\n3\nSo\noe\n<\n\nTOTAL INTERNAL FUEL REMAINING - 1,000 POUNDS\n\nPt tt tT TT tt || |\nEEE EEEEEEEEEE NCEE\npt ttt tt tT yt tT tT tt tt || ttt\n\nSRN\nPT tT tt tT ee te tT ET PT TT | AY | tT YT\nPTT TT eT te ye ee PT TP ET ET TT ET TT\n\nCG% MAC\n\nWARNING NOTE\nGEAR DOWN\n\nFAILURE TO UTILIZE \"TOTAL CG CORRECTION\" AS DETERMINED ‘eC oN.\n\nIN FIGURE 11-4 WILL RESULT IN INCORRECT CG CALCULATIONS.\n\nTIME TO RECOVER FROM A DEPARTURE IS SIGNIFICANTLY NO EW EQUIPMENT\nINCREASED WHEN CG IS IN THE AFT RANGE WHERE AOA\n\nLIMITATIONS ARE IMPOSED BY CONFIGURATION.\n\n1BAC-NFM-00-(55-1)32-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page459_1.png",
+    "text": "F/A-18B 161704 THRU 163123 WITH CG CONTROL SYSTEM\n\nPt tT tT tT ee tT tT ET PTT TT ET tT\nptt tet tT tT tte TT TT ET TT TT TT TT\nPT tT tT tT tee tT tT TT TTT TT ET | TT\nPt} TT tT TT TT fT | eto tones | | | | tT | | tT\nSRR See\nPt} TT tT TT TT TT | A winctanes | TT | | | Tt tT\n{ttt tt tT tt ree tt tt tescaymow on | P| t |\n\nPt tt tt | aaa\n\nw\na\nZz\n5\nrs\na\n2\n3\n2.\n\\\n_\noo\n9S\nluo\n=\n3\nSo\noe\n<\n\nTOTAL INTERNAL FUEL REMAINING - 1,000 POUNDS\n\nPT IN eo tames L | TT TT\nCoo nC\n\nN\\ Nan TANKS\n\n| | || |\nCEE ECE PREC EEE\nPp} tT EET TT Pe ETE TE EE EE\n\nCG% MAC\n\nWARNING NOTE\nGEAR DOWN\n\nFAILURE TO UTILIZE \"TOTAL CG CORRECTION\" AS DETERMINED ‘eC oN.\n\nIN FIGURE 11-4 WILL RESULT IN INCORRECT CG CALCULATIONS.\n\nTIME TO RECOVER FROM A DEPARTURE IS SIGNIFICANTLY NO EW EQUIPMENT\nINCREASED WHEN CG IS IN THE AFT RANGE WHERE AOA\n\nLIMITATIONS ARE IMPOSED BY CONFIGURATION.\n\n1BAC-NFM-00-(56-1)32-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page545_2.png",
+    "text": "BERANRENNNISNNS\n\nNX\n\nFy\nWw\nO°\nSo\n3\n\n'\nLlu\na\n=)\ni\n5\n<f\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(59-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page545_3.png",
+    "text": "Fy\nWw\nQ\nrs)\nrs)\n\n1\nld\na\n>\n—\na\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(60-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page546_2.png",
+    "text": "Fi\nWw\nQ\nrs)\nis)\n\n1\n[Ea\na\n>\n—\na\n<<\n\nVELOCITY - KNOTS (CAS)\n\nNOTE Restarts above 25,000 feet are possible, but not probable.\n\n18AC-NFM-00-(61-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page546_3.png",
+    "text": "NOTES\n@ An APU restart should not be attempted\nexcept as a last resort.\n© APU start probability is improved if HYD\nISOL ORIDE is selected for 10 seconds\nbefore attempting start.\n\nIEEE\n\nPRANK\nADORNS\n\n500\n\nFy\nWw\nQ\nrs)\nrs)\n\n1\nld\na\n>\n—\na\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(62-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page5_1.png",
+    "text": "DEPARTMENT OF THE NAVY\nNAVAL AIR SYSTEMS COMMAND\nRADM WILLIAM A. MOFFETT BUILDING\n47123 BUSE ROAD, BLDG 2272\nPATUXENT RIVER, MD 20670-1547\n\n15 September 2008\n\nLETTER OF PROMULGATION\n\n1. The Naval Air Training and Operating Procedures Standardization (NATOPS) Program is a\npositive approach toward improving combat readiness and achieving a substantial reduction in the\naircraft mishap rate. Standardization, based on professional knowledge and experience, provides the\nbasis for development of an efficient and sound operational procedure. The standardization program\nis not planned to stifle individual initiative, but rather to aid the Commanding Officer in increasing\nthe unit’s combat potential without reducing command prestige or responsibility.\n\n2. This manual standardizes ground and flight procedures but does not include tactical doctrine.\nCompliance with the stipulated manual requirements and procedures is mandatory except as\nauthorized herein. In order to remain effective, NATOPS must be dynamic and stimulate rather than\nsuppress individual thinking. Since aviation is a continuing, progressive profession, it is both\ndesirable and necessary that new ideas and new techniques be expeditiously evaluated and\nincorporated if proven to be sound. To this end, Commanding Officers of aviation units are\nauthorized to modify procedures contained herein, in accordance with the waiver provisions\nestablished by OPNAV Instruction 3710.7, for the purpose of assessing new ideas prior to initiating\nrecommendations for permanent changes. This manual is prepared and kept current by the users in\norder to achieve maximum readiness and safety in the most efficient and economical manner. Should\nconflict exist between the training and operating procedures found in this manual and those found\nin other publications, this manual will govern.\n\n3. Checklists and other pertinent extracts from this publication necessary to normal operations and\ntraining should be made and carried for use in naval aircraft.\n\nmiral, United Sfagis Navy\nBy direction of\nCommander, Naval Air Systems Command"
+  },
+  {
+    "path": "./data/pdf_images\\image_page632_2.png",
+    "text": "AIRCRAFT SPEED\n130-150 KNOTS\nIN LEVEL FLIGHT\n\nEJECTIONS ABOVE EACH LINE\nARE SAFE FOR THE STATED\nCONDITIONS. EJECTIONS\nBELOW EACH LINE ARE\n\n|\n| ft | | ert tt\nCCR\n\nee ee\n\n1000 2000 3000 4000 5000 6000 7000 8000 9000 10000\n\nAIRCRAFT SPEED\n130-150 KNOTS\nIN LEVEL FLIGHT\n\naz\n[eo]\n=\nir\n1\nz\nS\n&\nlo\nrf\n_\n5\nLL\nB\ni\no\n3S\n=)\na\noe\n2\na\nlo\no&\n5\nfos\nlu\nia\nlu\na\n=)\ni\nFB\n<\n=\n5\n2\nz\n=\n\nNOTE\n\nEJECTIONS ABOVE EACH LINE\nARE SAFE FOR THE STATED\nCONDITIONS. EJECTIONS\nBELOW EACH LINE ARE\n\n|\nAt || | | | pert tt\n| | | eet Pte ff et tt tt\nLEE —rT | | ttt\n—rrtT}| |} tie} tt tt\n\n1000 2000 3000 4000 5000 6000 7000 8000 9000 10000\n\nAIRCRAFT SINK RATE — FEET PER MINUTE\n\n1BAC-NFM-00-(67-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page633_2.png",
+    "text": "SJU-17 (F/A-18C)\n\ni\n=x\nFy\nWe\n1\nz\nS\n&\nlo\n2\nLlu\nnl\n5\nLe\n7\noH\nlu\no\nr=)\n>\n7)\nce\nS\nWw\na\nlo\noe\n5\nfos\nlu\na\nlu\na\n=)\nE\n5\n<\n=\n=)\n2\nz\n=\n\n4000 6000 8000\n\nAIRCRAFT SINK RATE - (FEET PER MINUTE}\nLEGEND\n\n@ Minimum ejection heights are based on initiation of the escape system. ——————_ 130 KNOTS\n\n— — — 250 KNOTS\n@ Pilot reaction time is not included. 400 KNOTS\n\n—-——— 600 KNOTS\n@ Ejection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(67-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page634_2.png",
+    "text": "SJU-17 (F/A-18D)\n\naz\nQ\n=\nHs\nra\n!\nz\n=\n—\noO\ntu\nFs)\na\n>\nbo\nn\nie)\ntu\nQ\nS\n2\n“n\no\npra\nfam)\ntu\n=\n>\nles\ntu\no\ntu\na\n_)\n=\na\n<\n=\n2\n2\nzZ\n=\n\n4000 6000 8000\n\nAIRCRAFT SINK RATE - FEET PER MINUTE\nLEGEND\n\nMinimum ejection heights are based on initiation of the escape system, 130 KNOTS\nand the time required for a complete dual sequenced ejection is included. — — — 950 KNOTS\n\nPilot reaction time is not included. ———— _ 600 KNOTS\n\nEjection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(67-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page635_2.png",
+    "text": "SJU-5/6 AIRSPEED, DIVE ANGLE AND BANK EFFECTS (F/A -18A/C)\n\n5\ni\n\n>\n\nA\n|\n__\nes\n|\n|\nte\n\n——_\n——.\n\nNOTS\n\ncas\n\nSe\n\n-\n-\n-\nZ\n—\nz\n~\n——\ncE\n\ny\nLEE Lo)\nomnes oo\n\nZe [eeea\n\nNw\nNN\naN\noa\n\n|_|\n\n)\n\nae\n| | EV |\n\n|\n\n750\n\nx\n\nMINIMUM EJECTION HEIGHT - FEET (AGL)\n\nCea\nani\n-\niz\n|\n\nTACK MAAN\nATS\n\noO\n\nAIRCRAFT DIVE ANGLE FROM HORIZONTAL (0° ne VERTICAL (90°)\nNOTES\n° Mi m ejection heights are based on initiation of the @ Pilot reaction time is not included.\n@ Ejection altitude i * below 5000 feet MSL.\n° nk angle data is is for coordina rated Hight. Yow or slip will\nse the height reauie ired for recovery."
+  },
+  {
+    "path": "./data/pdf_images\\image_page636_2.png",
+    "text": "SJU-17 AIRSPEED AND BANK ANGLE EFFECTS (F/A-18C)\n\naz\nQ\n=\nEs\nra\n!\nz\n=)\n—\noO\ntu\n|\n=\n=)\nto\nn\noy\ntu\nQ\nSo\n2\nnn\n©\n[ra\n[am]\ntu\n=\n>\nao\nway\noe\ntu\na\n2\nE\na\n4\n=\n2\n2\nZz\n=\n\n100\n\nAIRCRAFT BANK ANGLE - DEGREES\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system.\n\nBank angle data is for coordinated flight. Yaw or slip will increase —————_ 130 KNOTS\nthe height required for recovery. — — — 2OKNOTS\nPilot reaction time is not included. 400 KNOTS\nEjection altitude is below 5000 feet MSL. ——-—-—— 600 KNOTS\n\n1BAC-NFM-00-(68-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page637_2.png",
+    "text": "SJU-17 AIRSPEED AND DIVE ANGLE EFFECTS (F/A-18C)\n\nMINIMUM ALTITUDE REQUIRED FOR SUCCESSFUL EJECTION — FEET (AGL)\n\naN\nYs\n\nIS\n\\\\ os\n\n~\n‘\n~ ~\nIN\n\n\\ - Sy '\n\na\nCd\n7\nZ|\n7\n7\n”\nss\nre\n7\n7\n7\na\n7\nZ|\n7\n7\n7\n—\n—_—\naa\n—T |\ncn\n\n30 40 50\n\nAIRCRAFT DIVE ANGLE - DEGREES\n\nNOTES LEGEND\n\n@ Minimum ejection heights are based on initiation of the escape system.\n@ Pilot reaction time is not included. ————_ 130 KNOTS\n\n@ Ejection altitude is below 5000 feet MSL. — — — 2580 KNOTS\n400 KNOTS\n\n————— 600 KNOTS\n\n1BAC-NFM-00-(68-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page638_2.png",
+    "text": "SJU-5/6 AIRSPEED, DIVE ANGLE AND BANK ANGLE EFFECTS (F/A-18B/D)\n\nMINIMUM EJECTION HEIGHT — FEET (AGL)\n\n2000\n\n1900\n\n1800\n\n1700\n\n1600\n\n1500\n\n|e ett | ty tt beg\n|} tit ty yt | Lg\n| ty} ti | | | ey\nHat 4\n| ty tt\nfifi tte,\n\noA\n\\_\nEASE\n\nCEE Ea NY\nSe Eee |\nVi | | is¥ | fT | ay\n\ni)\now\no\naN\nZz\nfo)\n4\nuw\n\n| hs\\\n\nAIRCRAFT DIVE ANGLE FROM HORIZONTAL (0°) TO VERTICAL (90°)\nNOTES\n\nm ejection heights a re bos ed 0 ni ation of the ©@ Aircrew reaction time is not included.\ncape syste and the um required fo complete @ Ejection altitude is below 5000 feet MSL.\ndu al seque ced eje ection nl ded.\n° nk angle e data s for oortna inated flight. Yaw or slip will\nincrease the height r eau ired for recovery.\n\n|\nfo evors\nio oO"
+  },
+  {
+    "path": "./data/pdf_images\\image_page639_2.png",
+    "text": "SJU-17 AIRSPEED AND BANK ANGLE EFFECTS (F/A-18D)\n\n=a\n2)\n=z\nFy\n[a\n1\nz\n=)\n5\nLu\nud\n_\n=)\nLo\nDH\nwa\nLu\ncS)\n3\n=)\n7)\no\nWw\na\nLo\n&\n5\nao\nLo\nla\nLlu\na\n=)\ni\nFy\n<f\n=\n5\n2\nz\n=\n\n_—_————£\n0) 80 100 120 140 160 18\n\n0 20 6 0\n\nAIRCRAFT BANK ANGLE - DEGREES\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system,\n\nand the time required for a complete dual sequenced ejection is included. ————_ 130 KNOTS\nBank angle data is for coordinated flight. Yaw or slip will increase — — — 250 KNOTS\nthe height required for recovery. 400 KNOTS\nAircrew reaction time is not included. —-—-—— 600 KNOTS\nEjection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(69-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page640_2.png",
+    "text": "SJU-17 AIRSPEED AND DIVE ANGLE EFFECTS (F/A-18D)\n\n~\n~\n~\n\nMINIMUM ALTITUDE REQUIRED FOR SUCCESSFUL EJECTION — FEET (AGL)\n\naD\n7\nwa\n7\n4\n7\n7\n7\na\n“\n\n30 40 50\nAIRCRAFT DIVE ANGLE FROM HORIZONAL (0°) TO VERTICAL (90°}\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system,\nand the time required for a complete dual sequenced ejection is included. ——— _ 130 KNOTS\nAircrew reaction time is not included. — — — 250 KNOTS\n\nEjection altitude is below 5000 feet MSL. 400 KNOTS\n———— 600 KNOTS\n\n1BAC-NFM-00-(69-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page641_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS\n\nLEG RESTRAINTS\n\nSEAT HEIGHT ADJUSTMENT\n(SEAT BUCKET POSITION SWITCH)\n\nOXYGEN GAGE\n\nEMERGENCY OXYGEN ACTUATOR\n(GREEN RING)\n\n18AC-NFM-00-(70-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page642_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nEJECTION HANDLE\n\nSAFE/ARMED HANDLE\n\nEMERGENCY RESTRAINT RELEASE HANDLE\n(MANUAL OVERRIDE HANDLE}"
+  },
+  {
+    "path": "./data/pdf_images\\image_page643_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nPINS REQUIRING REMOVAL\nPRIOR TO FLIGHT:\n\nDROGUE GUN SAFETY PIN\n\nROCKET MOTOR INITIATOR SAFETY PIN\n\n4RAP NIEMA AN FIN W414 FATT"
+  },
+  {
+    "path": "./data/pdf_images\\image_page644_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nTIME RELEASE MECHANISM\nSAFETY PIN\n\nEMERGENCY RESTRAINT\nRELEASE SAFETY PIN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page647_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\nAUTOMATIC SEAT/MAN SEPARATION\n\nLOW ALTITUDE SEQUENCE\n\n@ After pulling the ejection control handle, the IFF is actuated, the inertia reel positions the\noccupant, and the canopy jettisons.\n\nA Catapult fires and seat is propelled up guide rail. Occupant's legs are restrained. Emergency\noxygen is actuated, and the time release mechanism and drogue gun are tripped. The\nrocket pack fires near the end of the catapult stroke.\n\nB Drogue gun fires. Controller droque and stabilizer drogue are deployed to stabilize and\ndecelerate seat.\n\nLOW/MEDIUM ALTITUDE SEQUENCE\n\nC Same as High Altitude except the time release mechanism actuates approximately 1.5 seconds\n\nafter ejection if below 7500 feet MSL If above 7500 feet MSL and less than 3 g's on seat, the\ntime release mechanism actuates in approximately 1.5 seconds.\n\nNOTE\nIf emergency oxygen fails to activate\nupon ejection, pull the oxygen release\n\nring located on the left forward top\nof the seat kit.\n\nHIGH ALTITUDE SEQUENCE\nD When between 14,500 MSL and 11,500 feet MSL is reached, the time release mechanism\n\nactuates to release the occupants harness and leg restraint lines. The scissor shackle is released\nand the drogue chute pull the link line to deploy the main parachute.\n\nE The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nWARNING\n\nIf high terrain is not a factor, do not use\n\nmanual seat/man separation until below\n11,500 feet MSL.\n\n18AC-NFM-00-(70-7)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page64_1.png",
+    "text": "F/ Aig A/c —=\"_"
+  },
+  {
+    "path": "./data/pdf_images\\image_page651_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\nPARACHUTE LANDING FALL (PLF) PROCEDURES\n\nUpon toes touching ground surface:\n\n1. Arch side of body in direction of fall.\n2. Contact ground at five points of body contact:\na. Balls of feet.\nb. Calf.\nc. Thigh.\nd. Buttocks.\ne. Upper back.\n3. Release parachute fittings.\n\nRAFT BOARDING\nWhen clear of the parachute canopy, retrieve the LR—1 life raft by locating the dropline and pulling the raft to you.\n\nNOTE\n\n1. Locate and remove the raft Ensure that raft retaining lanyard\nretaining lanyard from its ; is securely attached and oxygen\npocket just above the CO 2 \\ hose has been disconnected from\ncylinder. seat kit (if not previously\n\naccomplished) before releasing\nupper half of seat kit.\n\n. Attach the snaphook to gated helo—hoist lift ring.\n\n. Locate the quick-release fitting and release upper half\nof seat kit,\n\n. Bring raft around for entry into smaller end (stern).\n\n. Grasp stern and forcibly push under LPU waist lobes.\n\n. Using boarding handles, pull into raft and tum toward\na seated position.\n\n. Locate the sea anchor and deploy it.\n\n. Retrieve lower half of seat kit.\n\nNOTE\n\n@ The AN/URT-33A is not secured and\nonce removed from the seat kit, care\nmust be taken to prevent its loss.\n\n@ The AN/URT-33A has a retrieval lanyard\nsecured to it with rubber bands. Attach\nthe lanyard to a suitable place on\nsurvival equipment. Then remove the\nAN/URT-33A from its bracket.\n\n9. Locate and retrieve the AN/URT-33A from the lower half\nof the seat kit.\n\n10. Immediately, secure survival package to gated helo-\nhoist lift ring.\n\n18AC-NFM-00-{70-1 1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page652_2.png",
+    "text": "”n\n=\nLu\nke\nvp)\n>\n”Y\n<\nLi\nn\nNK\n|\n=)\nFd\n”Y\n\nSHOULDER HARNESS LOCK LEVER\n\nLEG RESTRAINTS\n\nSEAT HEIGHT ADJUSTMENT\n(SEAT BUCKET POSITION SWITCH)\n\nSURVIVAL KIT RELEASE HANDLE\n\nEMERGENCY OXYGEN ACTUATOR\n(GREEN RING)\n\nOXYGEN GAGE\n\n1)31-CATI\n\n(147-\n\n18AC-NFM-00-"
+  },
+  {
+    "path": "./data/pdf_images\\image_page653_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\n\nEJECTION HANDLE\n\nSAFE/ARMED HANDLE\n\nEMERGENCY RESTRAINT RELEASE HANDLE\n(MANUAL OVERRIDE HANDLE}\n\n18AC-NFM-00-(147-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page654_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\n\nmas!\nLo\n\nEJECTION HANDLE SAFETY PIN\n\n18AC-NFM-00-(147-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page657_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\nAUTOMATIC SEAT/MAN_SEPARATION\n\nALL EJECTION SEQUENCES\n\n@ After pulling the ejection control handle, the IFF is actuated, the inertial reel positions the\noccupant, and the canopy jettisons.\n\nA Catapult fires and seat is propelled up quide rail. Occupant's legs are restrained. Emergency\noxygen and radio beacon are actuated. The rocket pack fires near the end of the catapult\nstroke. Drogue catapult fires. Drogue is deployed to stabilize and decelerate seat.\n\nLOW/MEDIUM ALTITUDE SEQUENCE (Below 18,000 feet MSL)\n\nB Drogue releases from seat. Parachute deployment rocket fires to extract and deploy main\nparachute. Hamess and leg restraint lines released. Drogue release and parachute deployment\noccur between .45 and 2.9 seconds dependent on airspeed and altitude.\n\nC The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nNOTE\nIf emergency oxygen fails to activate\nupon ejection, pull the oxygen release\nring located on the left forward top\nof the seat kit.\n\nHIGH ALTITUDE SEQUENCE (Above 18,000 feet MSL)\n\nD Drogue remains connected to seat until below 18,000 feet MSL, where drogue release, parachute\ndeployment, harness and leg restraint release occur.\n\nE The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nWARNING\n\nIf high terrain is not a factor, do not use\nmanual seat/man separation until below\n14,000 feet MSL.\n\n18AC-NFM-00-(147-6)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page660_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\nPARACHUTE LANDING FALL (PLF) PROCEDURES\n\nUpon toes touching ground surface:\n\n1. Arch side of body in direction of fall.\n2. Contact ground at five points of body contact:\na. Balls of feet.\nb. Calf.\nc. Thigh.\nd. Buttocks.\ne. Upper back.\n3. Release parachute fittings.\n\nRAFT BOARDING\nWhen clear of the parachute canopy, retrieve the LRU-23/P life raft by locating the dropline and pulling the raft to you.\n\n1. Locate and remove the raft\nretaining lanyard from its\npocket just above the CO 2\ncylinder.\n\n. Attach the snaphook to gated helo-hoist lift ring.\n\n. Locate the quick-release fitting and release\nseat lid.\n\n. Bring raft around for entry into smaller end (stern).\n\n. Grasp stern and forcibly push under LPU waist lobes.\n\n. Using boarding handles, pull into raft and tum toward\na seated position.\n\n. Locate the sea anchor and deploy it.\n\n. Retrieve survival kit.\n\nNOTE\n\nEnsure that raft retaining lanyard\nis securely attached and oxygen\nhose has been disconnected from\nseat kit (if not previously\naccomplished) before releasing\nseat lid.\n\nNOTE\n\n@ The AN/URT-33A is not secured and\nonce removed from the seat lid, care\nmust be taken to prevent its loss.\n\n@ The AN/URT-33A has a retrieval lanyard\nsecured to it with rubber bands. Attach\nthe lanyard to a suitable place on\nsurvival equipment. Then remove the\nAN/URT-33A from its bracket.\n\n9. Retrieve seat lid.\n\n10. Remove seat cushion front lid.\n\n11. Locate and retrieve the AN/URT-33A from\nunder the cushion on the left side of the kit lid.\n\n12. Immediately secure survival package to gated\nhelo-hoist lift ring.\n\n18AC-NFM-O0-{147-9)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page661_2.png",
+    "text": "PARACHUTE STEERING\n\nPull down on left or right lanyard to steer in desired direction.\n\nLANDING PREPARATION OVER WATER LANDING PREPARATION OVER LAND\n\nTry to determine the wind direction at the surface using Perform the same procedures as for over water, but with\nwhite caps, smoke from the wreckage, or known surface winds the following exceptions:\n\nin the vicinity. Note that the winds at the surface may be\n\nquite different from those encountered at altitude. 1. Visor - down.\n\nWhen nearing the surface, maneuver the parachute so that you\nare facing into the wind. Then assume the proper body\n\nposition for landing: 3. Do NOT deploy seat kit.\n@ Feet together.\n\n2. Gloves - on\n\n@ Knees slightly bent.\n\n@ Toes pointed slightly downward.\n\n@ Eyes on the Horizon.\n\n@ Firmly grasp canopy release fittings.\n\n@ Tuck elbows in prior to water entry,\n\nWARNING\n\n@ If a parachute landing is made into the water\nor a high wind prevents normal spilling of\nthe parachute canopy, disconnect both quick—\nrelease fittings that attach risers to the torso—\nharness suit, thus jettisoning the parachute\ncanopy.\n\n@ Do not disconnect the quick-release fittings\nuntil after contact with ground or water.\n\n18AC-NFM-00-(70-12)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page662_2.png",
+    "text": "RESCUE\n\nIf survivor pickup is to be effected by rescue helicopter, the following procedures should be followed: (Unassisted rescue - no swimmer deployed)\n\n1. Stow or discard loose gear, roll out of raft on right\nside (side with CQ) cylinder),\n\n2. Swim away from raft. Ensure that helmet visor has\nbeen lowered.\n\n3. Remove raft retention lanyard after rescue device has\n\nbeen lowered.\nWARNING\n\n@ To allow discharge of static electricity and prevent\nelectrical shock, avoid touching rescue device until\nit has made contact with water/ground.\n\n© To avoid severe injury, keep hands clear of hook and\nring assemblies during hoisting.\n\n@ Under no circumstances should survivors attempt to\nassist their entrance into helicopter or move from\nthe rescue device until helicopter aircrewman assists\nthem to a seat in the aircraft.\n\nPROCEDURES FOR USE OF THE RESCUE HOOK\n\n1. Attach large hook to gated helo-hoist lift ring.\n\n2. Cross arms in front of chest and place head down\nand to the left. Give thumbs-up signal to helo—\nhoist operator.\n\nNOTE\n\nThe helo rescue hook\nhas a small and large\nhook. The large hook\nis the primary hook\n\nfor hoisting personnel.\n\n3. Position of aircrewman during\nhelo—hoist. Upon clearing ground/\nwater, cross feet.\n\n18AC-NFM-00-(70-13)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page663_2.png",
+    "text": "PROCEDURES FOR USE OF THE RESCUE STROP (HORSECOLLAR)\n\nV RINGS 1. Grasp free end of rescue strop.\n\n2. Swim in a circle toward rescue hook completely\nencircling body with rescue strop.\n\nRETAINER\nae POCKETS\nPULL TABS\nFOR RETAINER\nSTRAPS\nEJECTOR\nRETAINER SNAP\nPOCKETS\nRETAINER 3. Attach free end of strop\nSTRAPS\nFREED to large hook.\nV RING\n\nV RINGS\n\n4. Pull both retainer straps free and connect ejector snap to V-ring of other retainer strap. Pull tight.\n\n5. Ensure rescue strop is above PRU waist lobes and high on back. Wrap arms around strop and\nplace hands in armpits. Keep head down, and give thumbs up signal to helo-hoist operator.\n\n6. Position of aircrewman\nduring hoist, Upon\nclearing water, cross\nfeet.\n\n18AC-NFM-00-(70-14)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page664_2.png",
+    "text": "PROCEDURES FOR USE OF THE FOREST PENETRATOR\n\nAN PULL TAB FOR\nSAFETY STRAP\n\nSAFETY STRAP\n\nFLOTATION COLLAR\n\nW\neT K +5 SEATS EXTENDED\n\nNa;\n\nForest penetrator with flotation\n\nForest penetrator with flotation\ncollar and seats extended.\n\ncollar and seats retracted (safety\nstraps omitted to show connection\nof rescue hook to eye-bolt).\n\n. Unsnap LPU waist lobes.\n\n. Extend only one seat on forest penetrator.\n\n. Sit on seat facing flotation collar. Using elbows,\nseparate LPU waist lobes and pull shaft of penetrator\n\nclose to chest.\n\n. Pass safety strap under arm around back, and under other\narm. Connect safety strap and tighten.\n\n. Turn head down and to the left. Give thumbs up signal\nto helo-hoist operator.\n\n6. Upon clearing water, cross feet.\n\n18AC-NFM-00-(70-15)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page68_1.png",
+    "text": "F/A-18A/C TYPICAL\n\nVERTICAL FIN ENGINES\nVENT TANK ~~ 4\nFUSELAGE\n\nTANK 3 VENT TANK\n\n(RIGHT ENGINE FEED)\n\nTANK 2\n(LEFT ENGINE FEED)\n\nDFIRS <3 |\n\nAIR\nREFUELING\nPROBE\n\nSECONDARY\nPOWER SYSTEM\n@ APU\nBOARDING — CONDITIONING © LEFT & RIGHT AMAD\n[1 > LOX LADDER UNIT ® Fuel Pumps\nol @ Air Turbine Starters\n2 » ; @ Generators\nCONCENTRATOR [71> Aircraft 161353 THRU 164068 e Hydraulic Pumps\n\n[2 > Aircraft 164196 AND UP\n\n[3_> Aircraft 164627 AND UP\n\n18AC-NFM-00-(5-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\image_page69_1.png",
+    "text": "LOT\n\nLOT\n\nLOT\n\nLOT\n\nBLOCK 5 (3)\n\n161353, 161358, 161359\n\nBLOCK 6 (8)\n161361 thru 161367\n161519\n\nBLOCK 7 (9)\n161520 thru 161528\n\nBLOCK 8 (10)\n\n161702,161703,161705,\n161706,161708,161709,\n161710,161712,161713,\n\n161715\n\nBLOCK 9 (17)\n161716, thru 161718,\n164720 thru 161722,\n161724 thru 161726,\n161728 thru 161732,\n161734 thru 161736\n\nBLOCK 10 (23)\n161737 thru 161739,\n161741 thru 161745,\n161747 thru 161761\n\nBLOCK 11 (17)\n161925 thru 161931,\n161933 thru 161937,\n161939 thru 161942,\n\n161944\n\nBLOCK 12 (20)\n161945, 161946,\n161948 thru 161965\nBLOCK 13 (22)\n161966 thru 161987\nBLOCK 14 (18)\n162394 thru 162401,\n162403 thru 162407,\n162409 thru 162412,\n162414\n\nBLOCK 15 (28)\n162415 thru 162418,\n162420 thru 162426,\n162428 thru 162444\n\nBLOCK 16 (33)\n169445 thru 169477\n\nF/A—1BA\n\nLOT\n\nBLOCK 17 (24)\n462826 thru 162835,\n162837 thru 162841,\n162843 thru 162849,\n162851, 162852\n\nBLOCK 18 (25)\n162853 thru 162856,\n162858 thru 162863,\n162865 thru 162869,\n162871 thru 162875,\n162877 thru 162881\n\nBLOCK 19 (27)\n162882 thru 162884,\n162886 thru 162909\n\nBLOCK 20 (24)\n163092 thru 163103,\n163105 thru 163109,\n163111 thru 163114,\n163116 thru 163118\nBLOCK 21 (26)\n163119 thru 163122,\n163124 thru 163145\n\nBLOCK 22 (30)\n163146 thru 163175\n\nF/AIBA F/AI8B\n\nF/A—18B\nBLOCK 5 (4)\n161354 thru 161357\nBLOCK 6 (1)\n161360\n\nBLOCK 8 (4)\n161704, 161707, 161711,\n161714\n\nBLOCK 9 (4)\n161719, 161723, 161727,\n161733\n\nBLOCK 10 (3\n161740, 161746, 161924\n\n7\n-( BLOCK 11 (3)\nLOT 161932, 161938, 161943\n6 | BLOCK 12 (1)\n161947\nBLOCK 14 (3)\n162402, 162408, 162413\n{ BLOCK 15 (2)\n162419, 162427\nBLOCK 17 (3)\n162836, 162842, 162850\nBLOCK 18 (4)\n162857, 162864, 162870, 162876\nBLOCK 19 (1)\n162885\nBLOCK 20 (3)\n163104, 163110, 163115\nBLOCK 21 (1)\n163123\n\nBLOCK 22 (0)\n\nLOT\n\nLOT\n\nLOT\n\n1BAC—NFM—O0—(3-1)17—CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page713_1.png",
+    "text": "POS/XXX UPDATE SCALE MARK DATA\nOPTION OPTION OPTION OPTION OPTION\n\nWAYPOINT/OAP\n\nPOs/INS UPDT ae MK 2 DATA OPTION\nTCN 3307/ I2q \\\\ NI, |\n7“ 9 UP ARROW\n, =\n\nWAYPOINT/\nOAP/MK\n\nSELECTED\nDOWN ARROW\nae OPTION\n0:00.00 2' NAVDSG\nHSEL ! OPTION\nO80!\n\n050°\nSENSORS L4MAP TIMEUFC AUTO SEQ #\n\nOPTION\n\nZo4\n\n!\nL\ns\n\n4\nD\nE\nVv\nE\nc\n\nro>\n\nSENSORS L4MAP Shir AUTO\nOPTION “{ OPTION OPTION\n\nHSI TOP LEVEL DISPLAY\n\nMENU\n\n2> OOO Oyo\n\nL1_> 163985 AND UP\nEXCEPT HI\n\n18AC-NFM-00-(113-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page714_1.png",
+    "text": "INS MODE\nSELECT\nKNOB\n\nSENSOR CONTROL PANEL\n\nCOURSE\nSELECT\nSWITCH\n\nNot\n\nILS\nCHANNEL ILS/UFC\nPUSHBUTTONS MAN SWITCH\n\nTACAN VOLUME\nCONTROL KNOB\n\nCRYPTO MODE 4 MASTER\nHOLD DIS/AUD EMERG\n\nCOMMUNICATION CONTROL PANEL\n\n18AC-NFM-00-(113-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page722_1.png",
+    "text": "POS/ADC UPDT SCL/10 MK2 DATA\n100°/ 7.2\n46 \\ ty\nst” 46 N \\ 6\n\nN\n\\ N 38° 15' 06\"\n122 ° 30' 30\"\nSV HDG 000°\nCV SPD 17KTS\n\na\nRap\n—» av<é eS\n\nCol\n\nQUAL: NO ATT\nTIME: 1:38\nWYPTS\n\n—\n\nCV MAN\n\nQUAL: 18:6\nTIME: 2:08\n\nQNO< PZ\n\n=fimoH\n\n—— RF OR CABLE\nCARRIER ALIGN\nMANUAL CARRIER ALIGN DISPLAY DISPLAY\n\nALIGNMENT\n\nALN TIME=0322 AO=0.3 AC=6\nPOST\nALF=359.4 TH=359.4 CALF=0\nBMON\nPSI=000.0 PH=359.4\n\n[we] Lv] fos [us] [on] [eon [5\n\nNS wa\n\nINS MAINTENANCE ALIGN 1 DISPLAY MANUAL CARRIER ALIGN OPTIONS\n\n1BAC-NFM-00-{74—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page724_1.png",
+    "text": ""
+  },
+  {
+    "path": "./data/pdf_images\\image_page725_1.png",
+    "text": "POS/ADC UPDT SCL/10 MK2\n00° 7.2 4 \\ \\ f F\nN\n\n‘ N 41° 17! 04\"\nW 117° 40' 00\"\n\nGRND\n\nQUAL: 18:8\nTIME: 1:08\n\nGROUND ALIGN DISPLAY\n\nWYPT 0\nN 41° 17\" 04\"\nN 41817\" 04\" W 117° 40' 00\"\nWao ao\" GRID 41QNJ123456\nWSPD 10 KT ELEV 990 FT\nYEST o\nW DIR 140\" ° ; Q/S RNG $5000 FT\nMVAR E 17° 40 Of GRID GRID HoNigb7e04\n\nTOT 00:00:00 GSPD 0000\n\nworeo anc\nPer)\n\n>>\n\nwv\n1-2-4-7-11-12-14-17\n\nSS N/C AMER\nBARO RADAR PHILIPPINES\n\n25000 5000 CLARKE 66\n\nI\nN\n$s\nCc\nK\n1\nR\nE\nF\nWw\nP\n$s\nE\nQ\n1\n\nonmcoemn AN<=\n\nDATA OPTION DISPLAY DATA OPTION DISPLAY\nA/C DATA SELECTED WYPT/O DATA SELECTED\n\n1BAC-NFM-00-{75-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page726_1.png",
+    "text": "Pos/ADC UPDT SCL/10 MK2 DATA\n\n2.2 330°/ 8.1\n10:93 Voor, 08:57,\n\nSTL N 6\né \\ p\nN \\ »>\nE\n\n-\nea\n\ni}\nL\n$\nD\n(\nVv\nE\nc\n\nNO<>Z—a— o§ —e 40<=\n\nALIGN TIME\nFLASHES IF\nRADAR IS NOT\nAVAILABLE\n\n2OomM\n\nINS MODE SELECT KNOB\n\nCONT PVU IS SELECTED WHEN RADAR IS ON\nAND IFA IS SELECTED (OPTION IS BOXED).\n\nCONT PVU OPTION IS NOT DISPLAYED IF\nRADAR IS OFF. INFLIGHT ALIGN DISPLAY\n\n18AC-NFM-00-(76-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page74_1.png",
+    "text": "FROM FLIGHT IDLE FROM MILITARY\n\nFy Fy\nWw Ww\n2 Q\n3S ra)\n2 2\ni i\nlu lu\na a\n> >\nE E\n5 5\n<f <f\n\nMACH NUMBER MACH NUMBER\n\n. 1BAC-NFM-00-(6-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page750_1.png",
+    "text": "COMMAND\nHEADING\n\nSTEERING 020 030\nMARKER |\n\n7 ae\n\nHUD STEERING DISPLAY\n\nBEARING TO RANGE TO\nWYPT OR OAP\n\nTIME-TO-GO TO\nWYPT OR OAP\n\n(OR WYPT)\nWAYPOINT/OAP\n\nBEARING\nPOINTER\n\n90:06:21 24 ,\nEL\n\nHS\nooo°\n\nHI STEERING DISPLAY\n\n18AC-NFM-00-(80-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page751_1.png",
+    "text": "STEERING | |\n\nA\n\"™N\n\nARROW\n\n6.2 $e\nn° -O-\n\nM 0.38\nG1.0\n00:06:21\nZt\nSt\n/\n\nHUD STEERING DISPLAY\n\nPOS/INS UPDT SCL/20 MK2 DATA\nCOURSE 000°/ 10.2 1 3g 330°/\nSELECT , zs | a\nSWITCH G ‘ -\n\nYY A E\n\nHDG CRS ~ + |\n\n@ ©\n\nWAYPOINT\nSYMBOL\n\n~ SENSORS L4MAP K,\nOr SELECTED\nCOURSE\n\nHI STEERING DISPLAY\n\nCOURSE\nLINE\n\n1BAC-NFM-00-(81—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page752_1.png",
+    "text": "+ pes |\n\nHUD STEERING ARROW HUD STEERING ARROW\n(CROSSING A COURSE LINE) (INTERCEPTING A COURSE LINE)\n\n18AC-NFM-O0-(81-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page756_1.png",
+    "text": "COMMAND\nHEADING\nMARKER\n\nGROUND\n\nSPEED\nX 7.0 TT ~~ 7\nCUING M 0.38\n\n61.0 d\n\n/“ ET00:00\n\n/\n\nHUD STEERING DISPLAY\n\npata NUP NoRM\n\nSEQUENTIAL\nSTEERING\nLINES\n\nDATA\n\n3 / 300°/8.7\n¢ A 6 00:02:15\n\n/\n7\nE\n\n4107. d 2506\n4006 REQD\n\nHI STEERING DISPLAY\n\nGROUND\nSPEED\nREQUIRED\n\nSEQUENCE OPTION\nSELECTED (SEQUENCE\nLINES DISPLAYED)\n\nAUTO SEQUENTIAL STEERING\nSELECTED (AUTO AND WYPT\nBOXED)\n\n18AC-NFM-00-(118-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page757_1.png",
+    "text": "it | 040 4\n\n_\n°\n\n7.0 —_->—_\nM 0.38\n\n°\n\n\\\nyg «| 182 TCT\n\nBEFORE\nHUD NAVDSG DESIGNATION DISPLAY\n\nDATA DATA\n110°/16.2 110°/14.2\n3:44 2:44\n\nBEFORE NAVDSG O/S SELECTED\nNAVDSG SELECTED OR\nSELECTED i TDC PRESSED\n\nNAVDSG OF A WAYPOINT NAVDSG OF AN OAP\n\n. 18AC-NFM-O0-(119-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page758_1.png",
+    "text": "DATA\n\nSCL/20. MK 2\n\n090°/16.2\n\\ 3] 1 a\nf y\n\nCSEL\nTIMEUFC AUTO\n\nBEFORE\n\nA=OmMM ONnU<>Z4—U—_p  49<=\n\nSCL/20 MK 2\n\n:\n\nq\n090°7/ 00.0\n/ & 0:00:5:44\n12\n\n(TDC PRESSED)\n\nHl WAYPOINT OVERFLY DESIGNATION DISPLAY\n\nDATA\n090°/8.1\n35:\n\nSCL/20. MK 2\n\nf\n\n&\n\nCSEL\nTIMEUFC AUTO\n\nBEFORE\n\nSCL/20 MK 2\n\nHIE\n\nDATA\n4\n139°/3.0\n239\n\n(TDC PRESSED)\n\nHI OAP OVERFLY DESIGNATION DISPLAY\n\nNOTE\nHUD SYMBOLOGY FOR AN OVERFLY DESIGNATION\nIS IDENTICAL TO A NAVDSG.\n\n18AC-NFM-00-{120-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page765_1.png",
+    "text": "COMMAND HEADING\nSTEERING POINTER\n\n320\n\nHUD STEERING DISPLAY\n\nTACAN\nBEARING\n\nTACAN STATION\nTIME-TO-GO\n\nTACAN\nPUSHBUTTON\n\nTACAN\nSTATION\n\nIDENTIFIER\n\n00:00:00 21\nSEL.\n\nH\n50°\n\nTACAN\nLOCATION\nSYMBOL\n\n2680T | 2606\n\n/\n\nHI STEERING DISPLAY\n\nSLANT RANGE\nTO TACAN STATION\n\n1BAC-NFM-00-(86-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page766_1.png",
+    "text": "STEERING\nARROW 320\n\naN\n\n5 5\n\n6.2 $ o_ dh\n\nM 0.98\n61.0\n\n00:00:00\n\nHUD STEERING DISPLAY\n\nCOURSE TACAN\nLOCATION\n\nTACAN\n\nPUSHBUTTON +O\n00:00:002\" , ip)\nHSEL\n\n050°\n\nHI STEERING DISPLAY\n\nSLANT RANGE\nTO TACAN STATION\n\nSELECTED\nCOURSE\n\n18AC-NFM-00-(123-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page767_1.png",
+    "text": "fe [i] [] BS ve) i] x]\n\nNS LL” NS\n\n@ UFC SELECTED WITH ILS SWITCH @ MAN SELECTED WITH ILS SWITCH\n(ON COMMUNICATION CONTROL PANEL} (ON COMMUNICATION CONTROL PANEL)\n\n® ILS FUNCTION PUSHBUTTON SELECTED\n(ON UFC)\n\n18AC-NFM-GO-(117-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page769_1.png",
+    "text": "ON CENTERLINE FLY LEFT\n\nFLY DOWN\nFLY RIGHT FLY DOWN\nFLY DOWN CL)\n\nN oN\n\n—~\n™ —\n\n~ —\n™ — |\n\\ ™\nFLY LEFT\nGLIDESLOPE ON GLIDESLOPE\n\\\n\nFLY RIGHT\nON GLIDESLOPE \\\n\none\n\nFLY UP\n\n~\n\nem roo fore] Zod\n\nro>\n\nON CENTERLINE\n\nFLY UP\nFLY RIGHT\n\nFLY UP AZIMUTH\nDEVIATION\nBAR\n\nILS STEERING DEVIATION\n\nSELECTED BAR\n\nMINIATURE\nAIRCRAFT\nELEVATION\nDEVIATION STANDBY ATTITUDE\n\nBAR REFERENCE INDICATOR\n\nELEVATION AZIMUTH\nDEVIATION DEVIATION\nBAR\n\nAZIMUTH\nDEVIATION\n\nBAR WATER LINE\nVELOCITY SYMBOL\n\nVECTOR\n\n! \\\n51__ | _—I5\n\nHUD STEERING DISPLAY\nELECTRONIC ATTITUDE DISPLAY\n\n1BAC-NFM-00-(88-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page776_1.png",
+    "text": "UFC AUTOPILOT OPTIONS\n(HEADING HOLD ENGAGED)\n\nLINK 4 DISPLAY\n\n[ve] [=] Ee) Les] [om] len] [oe\n\nNS wea\n\nUFC AUTOPILOT OPTIONS\n(T/C MODE ENGAGED)\n\n1BAC-NFM-00-(92-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page778_1.png",
+    "text": "AYP| | IFF | |TCN D/L OFF\n\nNS Le\n\nUFC AUTOPILOT OPTIONS\n(HH MODE ENGAGED)\nWITH CPL OPTION, TC OR ACL MODE AVAILBLE\n\nOOUOddO\n\nLINK 4 DISPLAY\n\n[ve] Le] foo [es] [or] [son [5\nNS 7\n\nUFC AUTOPILOT OPTIONS\n(ACL COUPLED)\n\n1BAC-NFM-00-(93-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page779_1.png",
+    "text": "HUD DATA LINK\nSITUATION STEERING SELECTED\n\n18AC-NFM-00-(94-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page780_1.png",
+    "text": "20,000 FT. HOLD AT MARSHAL\n\n35 MILES UNCOUPLE AND HOLD\nOR REMAIN COUPLED\nAND START DESCENT\nFROM MARSHAL\n\n-T/C COUPLED\n-BALT DISENGAGED\n-CMD A/S CHANGE\n\nMARSHAL TO RECEIVED\n\nTOUCHDOWN 20,000 FT.\n\nMACH 0.8 -T/C COUPLED\n\nNe oe -BALT ENGAGED\n~CMD ALT CHANGE\nRECEIVED\n\n-T/C COUPLED\n-BALT ENGAGED\n\\ —COMMAND HEADING\nCAPTURED\n\\ -T/C COUPLED\n~BALT ENGAGED\n~AIRCRAFT TURNING\n\n35,000 FT.\nMACH 0.8\n\n-ACL MODE\nSELECTED\n\nMAXIMUM RANGE,\n\nLIMITED BY TRACKING \\\nAND DATA LINK MAX\n\nRANGE\n\nAt the pilot has selected ACL mode on the HI and the onboard system is in test, as noted on the link 4 display. The HH mode has been engaged as shown by\nthe other autopilot option being displayed on the UFC. D/L command information may be shown on the link 4 display and the HUD during test.\n\nCQ) ACL MODE SELECTED (SYSTEM IN TEST)\n\nTMD A/S 270)SCL/160\nMD ALT 35000 A\n€MD ROD TI WS 0)\n24 q so,\n\n7\n\nAt @) the test is complete and link 4 display shows ACL 1 onboard capability as well as total loop T/C capaibilty. The pilot has coupled to the uplinked T/C\ncommand heading and has engaged the BALT altitude hold mode. The aircraft is banking to capture the uplinked command.\n\n1BAC-NFM-00-(95-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page781_1.png",
+    "text": "@) T/C COUPLED AND BALT ENGAGED (TURNING TO CAPTURE HEADING)\n\nTMD AVS 270/SCL/160\n€MD ALT 35000\n€MD ROD} \\ 139\no \\ Ww { ‘\n‘ 33\n24 4\n~ a\n\nAt ® the aircraft has captured the desired T/C command heading and is holding an altitude of 35,000 feet.\n\nGB) T/C COUPLED AND BALT ENGAGED (COMMAND HEADING CAPTURED)\n\nCPLD HDG\n\nXX.X AM\n--15\n\n‘\\\n\n10lL__ Vv ——10 \\\n| | \\\n\nAt oC the uplinked T/C command altitude (CMD ALT) and rate of descent (CMD ROD) has just changed, as indicated by the underlines on the link 4 display. The\n\nDATA legend is flashed on the HUD for 10 seconds to inform the pilot that new information is displayed on the link 4 display. The new altitude and rate of descent\ncommands inform the pilot to descend to 20,000 feet at a descent rate of 4,000 feet per minute.\n\n() T/C COUPLED AND BALT ENGAGED (CMD ALT CHANGE RECEIVED)\n\nyo\n\nDATA\nCPLD HDG\nXX.X AM\n\n‘\\\n\n1BAC-NFM-00-(95-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page782_1.png",
+    "text": "At © the pilot has leveled off at the new altitude. A new uplinked command airspeed has also been received and\n\nthe pilot has established the new airspeed which maintains 0.8 Mach at 20,000 feet as commanded. With the new altitude\nestablished, the pilot may reengage BALT hold.\n\n6) T/C COUPLED AND BALT DISENGAGED (CMD A/S CHANGE RECEIVED)\n\nTMD A/S 375)/SCL/160\nA 0000] vy\n\nUL)\nMD ROD xo! Vas\n\nyo}\n\n10ol__ Vv ——l0\n\nfry. \\\n\nAt G the aircraft is set up to hold in the marshal pattem at 20,000 feet. The uplinked D/L commands have been\n\nremoved from the displays due to receipt of the uplink NOT CMD. The carrier does not attempt to issue data link\n\ncommands while the aircraft is holding in marshal since the uplinked command mechanization is not structured to\nprovide aid during holding.\n\n© BALT ENGAGED-T/C UNCOUPLED (HOLDING IN MARSHAL PATTERN)\n\nso\n& yo\n\na |\n2.0 DATA\n\nM 0.80 35.0 AM\nG10 5) ys\n\n“ ~\n\n/ l-- 9 _LI! \\\n” ; H \\\n\nThe pilot is given, via carrier control, a marshal departure time and a TACAN range and bearing window for departure\n\nat the designated time. Once on the outboard leg for marshal departures, the uplinked D/L command information\n\ncommand\nheading, altitude, rate of descent and airspeed) may be uplinked and displayed.\n\n1BAC-NFM-00-(95-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page783_1.png",
+    "text": "ACL COUPLE AVAILABLE\n\n-ACL RDY DISPLAYED\n\n-MODE 1 DISPLAYED\n\n-LATERAL AND LONGITUDINAL\nCOMMANDS EQUAL ZERO\n\nPILOT COUPLES AND REPORTS\n\n-CMD CONT RECEIVED\n\n-LATERAL AND LONGITUDINAL\nCOMMAND ACTIVE\n\nACQUISITION (3,.5 TO 5 MILES)\n\nPAST TIPOVER\n-ON GLIDE SLOPE\n\n10 SEC RECEIVED\n-DECK MOTION\nCOMPENSATION\n\nADDED\n\nRANGE (MILES) ———™= 4 8 10\n\n-ACL RDY RECEIVED AND DISPLAYED\n-D/L STEERING RECEIVED AND\nDISPLAYED DEPART MARSHAL\n-T/C COUPLE AVAILABLE\nLND CHK RECEIVED\n(4 TO 6 MILES)\n-T/C COUPLED\n-R ALT ENGAGED\n-ATC ENGAGED\nILS AZIMUTH ~~\nSTEERING AVAILABLE ~4,000 FEET/MINUTE\n—— —— — ~ 5,000 FEET\n<< $$$ -2, 000 FEET/MINUTE\n\n1,200 FEET\n\nte TO LANDING\na ENGAGE\nATC AND ALTITUDE HOLD\nIF DESIRED.\n\nENTRY WINDOW\n630 FEET BY 10,000 FEET\n4 TO 8 NAUTICAL MILE RANGE\n\nAt One pilot started the descent to platform. The aircraft has again been coupled to unlinked T/C command heading and is banking to capture this heading.\nThe pilot has established the desired airspeed and desent rate as commanded via uplinked commands shown on the link 4 display. The desired result of following these\ncommands will be to arrive on platform at a 5,000-foot altitude and 20 nautical mile range, then to shallow the descent rate to 2,000 feet per minute.\n\n(1) DEPARTING MARSHAL\n(T/C COUPLED, BALT DISENGAGED VIA CSS OR\nUFC BALT OPTION BUTTON ACTUATION)\n\nTMD AVS 250/SCL/160\nCMD ALT 5000}\n€MD ROD. —\n4000) 94\n\nCPLD HDG\n33.0 AM\n\n1BAC-NFM-00-(96-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page784_1.png",
+    "text": "At @ the aircraft is on platform with a descent rate of 2,000 feet per minute intended to arrive at a 1200-foot altitude at approximately 10 nautical miles.\nValid ILS situation steering Is available and has automaticly been selected for HUD display when initially received. (The pilot may deselect the ILS steering via\n\nthe HI ILS steering select button when desired.) The pilot may utilize the ILS azimuth deviation to manually capture andjor maintain the desired azimuth alignment\nfor approach, but the glide slope ILS deviation bar should not be used until tipover, since it will be indicating fly—up.\n\n(2) ILS AZIMUTH STEERING VALID\n\nTMD AVS 250/SCL/160\nCMD ALT 1200] yy\nEMD ROD si la\n2000] \\ q\n\nN\n\nCPLD HDG\n\n/ 10lL__ —_—110 \\\n/ 3 1 1 \\\n\nAt ® the aircraft has leveled at 1,200 feet, in the landing configuration, with auto throttle control engaged, as indicated by the ATC cue on the HUD. The\nunderlined legend on the link 4 display shows that the uplinked LND CHK discrete has been received. This cue indicates that positive SPN-42 communication\n\nhas been established as well as cuing the pilot that the aircraft should be in the landing configuration and at the approach speed. From this point in the approach,\nthe HUD velocity vector should be caged to enhance and/or optimize the angle of attack bracket and situation steering display on the HUD.\n\n@ LND CHK DISCRETE RECEIVED\n(LANDING CONFIGURATION WITH T/C COUPLED,\nRALT AND ATC ENGAGED)\n\nTMD A/S T30)SCL/160\nCMD ALT 1200] vy\n€MD ROD st la\ni) \\ q\n\nXN\n15\n~\n\n/\n\nsl__ vy —-I5\n\nfry. \\\n\n1BAC-NFM-00-(96-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page785_1.png",
+    "text": "At @) the pilot has engaged radar altitude hold (RALT)at 1,200 feet. The uplinked ACL RDY legend indicates that the SPN-42 has acquired the aircraft\n\nand is now uplinking longitudinal and lateral commands to the aircraft equal to O feet per second and O° roll attitude. The MODE 1 legend indicates that ;\nthe total loop is capable of, and/or ready for, a dual—axis couple of the uplinked commands to the FCS. The FCS is still coupled to the uplinked command heading\nas indicated by the CPLD HDG legend displayed on the HUD. Also available is the uplinked D/L situation steering shown via the tadpole display on the HUD.\n\nThe pilot has deselected the ILS steering, but may select or deselect either or both ILS and D/L situation steering to monitor coupled control progress.\n\n(4) ACQUISITION\n(T/C COUPLED, ACL RDY RECEIVED, D/L STEERING AUTOMATICALLY\nDISPLAYED, AND PILOT HAS DESELECTED ILS STEERING)\n\nFLASHING\n\nTMD A/S T30)SCL/160\nCMD ALT 1200] vy at\n€MD ROD st lay\noN q ‘ ACLI\n\\ 24\n15 7\n~ o\n\n/\n\nSl__ vy —-15\n\nfryv\\\n\nAt ©) the pilot has uncoupled from the uplinked T/C command heading by deselection of the CPL option on the UFC. When the aircraft is not coupled, the\nACL RDY legend is displayed on the HUD. To couple the aircraft to the dual—oxis uplinked longitudinal and lateral commands requires that the pilot again select\nthe CPL option on the UFC.\n\n(5) ACL COUPLE AVAILABLE\n(T/C UNCOUPLED BY PILOT)\n\n~\n\\\n\n5l_-- vy —-15\n\nfr ya \\\n\n1BAC-NFM-00-(96-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page786_1.png",
+    "text": "At @) the aircraft is now coupled to the uplinked dual-axis commands as indicated by the CPLD P/R legend display on the HUD. The pilot has reported\ncouple to the camier control via voice communication and subsequently the aircraft has received the uplinked CMD CNIR discrete indicating that the uplinked\ne link 4 an\n\nlonaitudinal and lateral commands are active. The uplinked commands of heading, airspeed, altitude, and rate of descent are removed from\nHUD displays by the MC when the aircraft is coupled to the ducl-oxis commands as these commands are no longer updated by the carrier. The pilot will be\nadvised via voice gormyrication as he approaches tipover but no aircraft control action is required on his part. (At least 30 seconds of coupled control is\n\ndesirable prior to tipover.\n\n(6) ACL MODE COUPLED BY PILOT\n(CMD CNT RECEIVED)\n\nFLASHING\n\nAt @D the aircraft is past tipover on the desired glide slope and azimuth as indicated by the alignment of the D/L tadpole inside the velocity vector on the HUD.\n\n@) PAST TIPOVER\n(ACL MODE COUPLED, ON GLIDE SLOPE)\n\ncow.\n\nISCL/T60|\n\\ Yo\nf\nCPLD P/R\n\nATC\n\n1BAC-NFM-00-(96-4)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page787_1.png",
+    "text": "At approximately 12.5 secconds prior to touchdown, the uplinked 10 SEC descrete is received and displayed on both the HUD and the link 4 displays. Receipt\nof the 10 SEC discrete indicates that deck motion compensation is now being added to the uplinked longitudinal and lateral commands.\n\n10 SEC DISCRETE RECEIVED\n(ACL COUPLED, ON GLIDE SLOPE)\n\n10 SEC\nCPLD P/R\nATC\n0.4 AM\n\nAt approximately 1.5 seconds from touchdown the uplinked longitudinal and lateral commands are frozen. At touchdown (weight on wheels), the aircraft\nuncouples from the uplinked commands.\n\n18AC-NFM-00-(96-5)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page791_1.png",
+    "text": "SKY POINTER\n\nSPHEROID\n\nELEVATION\nDEVIATION\nBAR\n\nPOINTER SHIELD\n\nMINATURE\nAIRPLANE\n\nTEST SWITCH\n\nRATE OF TURN\n\nBANK ANGLE\n\nINDEX BANK SCALE\n\nAZIMUTH\nDEVIATION\nBAR\n\nOFF FLAG\n\nPULL TO\nCAGE KNOB\n\nSLIP INDICATOR\nINCLINOMETER\n\n18AC-NFM-00-(97-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page95_1.png",
+    "text": "USABLE FUEL\nTANK GALLONS| POUNDS | POUNDS\nJP-5 JP-4\na\nNumber 2\nLeft Engine Feed 265 1,790 1,710\nNumber 3\n\nTotal Fuselage 1,419 9,650 9,230\n\nctedmgh |S] 8 | 50 | ean [50] HO |\nhina Wigs [70 ed] a0 |\n\nTotal Internal 1,589 10,810 10,330\n\nEXTERNAL TANK(S)\n\nElliptical Wing\n\nor Centerline Tank mio noe\nCylindrical Wing\nor Centerline Tank 2240 2,180\n\nNOTES\n\n@ The fuel quantities, in pounds, are rounded\noff to the nearest 10 pounds. Therefore, the\nactual gallons times 6.8 or 6.5 will not necessarily\nagree with the pounds column.\n\n@ Fuel weights are based on JP—5 or JP—4 at\n6.8 or 6.5 pounds per gallon and a temperature\nof 15°C (59\"F}. INTERNAL\nWING TANK\nTANK 3\nRIGHT ENGINE\nFEED\nAIR\nREFUELING\nPROBE\n\nLEFT ENGINE\nFEED\n\nFUEL QTY\n\nLB X 1000\n\nnoc\n\nTOTAL LBS\n\nLEFT\n\nINTERNAL\nWING TANK\n\nRIGHT\n\n18AC-NFM-00-(10-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page97_1.png",
+    "text": "POS/INS UPDT\n\n000°/27.5\n\n5:46\n“FUEL REMAINING\nAT TACAN STATION\nDISTANCE FROM TACAN\nSTATION WHERE PILOT\nSHOULD BEGIN DESCENT\n\nSCL/10\n\nSTL\nXXXXX\nXX\n\nTACAN\nHSI\n\nHOME FUEL\nADV-FPAS\n\nFUEL FPAS\n\nSUPT MENU\n\nWAYPOINT/TACAN\nSTEERING AREA\n\nOPTIMUM\nRANGE\nAREA\n\nCLIMB/DESCENT\nSPEED\n\nDEFAULT\nAREA\n\nA\n\n300\n\nXXXX §[— —45\n442\n\n10.6 WYPT\n\nHEAD UP\nDISPLAY\n\n330°/18.7\n00:00:00\n\nXXXXX\nFUEL REMAINING a\n\nXX\nAT WYPT\n\nDISTANCE FROM WYPT\nWHERE PILOT SHOULD\nBEGIN DESCENT\n\nDISPLAY\n\nCURRENT\nENDURANCE\nAREA\n\nCURRENT\n\nCURRENT\n\nRANGE\n254\n68\n281\n\nENDURANCE\nTO 2000 LB\n\nBEST MACH\nTO 2000 LB\n\nNAV TO\nWYPT 12\n\nFUEL REMAIN\n1034\n\nALTITUDE\nMACH\nTO 2000 LB\n\nDEFAULT: TEMP DRAG FF\n\nOPTIMUM\n\nENDURANCE\n\nAREA\nFPAS DISPLAY\n\n18AC-NFM-00-(318-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\image_page99_1.png",
+    "text": "TO EMERGENCY\nPOX KKK KKK KKK KK KKK KKK AAS xX Reet PROBE\n\nma\n\nREADY CORBINE UNIT ACCUMULATOR\n\nENGINE £0505\ngo <o_ EEE\neretets\nEXTERNAL\nAIR\nRECEPTACLE\n\nOe\n\n<\nXKRKD\n\nORR\n\naN\n\nENG CRANK\n\nP62 HAND PUMP\n\n| FROM\n\nHYD 2B\n\nNZ\n\n%\nas\n\nATS CONTROL\nVALVE\n\nAIR TURBINE =\n\nSTARTER ATS CONTROL\nVALVE\n\nGENERATOR GENERATOR\nAIR TURBINE\nSTARTER\n\nFUEL Bs aR E\neUEL SOLAI FUEL PUMP //.\n\n|\noa rt\n\nLEFT AMAD RIGHT AMAD\n|\n\nMANUAL\nDECOUPLER SHAFT SHAFT DECOUPLER\n\n......-~«Y SECONDARY\n\nCT PREPAC\nREGULATOR\n\nLEFT RIGHT\nENGINE ; a ENGINE\n—r— Electrical Circuit\n\nXXX Hydraulic 2B <<\n\nMME APU or Ground Supplied Air prim ARY\n\nPRESSURE\nwaeees Engine Bleed Air REGULATOR\n\njOooS\n\nCheck Valve\n\nooo\n\n1BAC-NFM-O0-(1 1-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page110_1.png",
+    "text": "GROUND POWER\n\nsw SW3\n\nPOS A POS A\nMISSION CMPTR 1, ALQ-126, ALE-39\nMSDRS AND L DD! INTFER BLANKER,\nPOS B ANTI SKID,\nMISSION CMPTR 2, OXY-GAGING AND\nAND POS A EQUIP ALR-67V) <1]\nPOS B\nSW2 SMS, AWW 4\nPOS A HARM, FLIR, LST,\n\nR DDI, HUD, RADAR, INS iN DECODER | <1)\nAND EHS!\n\nBON POS B SW4\nEXT PWR TACAN, ADC, UHF 1 AND\n\nRESET 2, RDR ALTMTR, CSC, POS A\nADF, BCN, RDR AUG cS\nRCVR, ILS, D L, IFF, POS B\nKIT, EMD, STBY INSTR, ICS, FCES\nKY-58, UFC, AND\nPOS A EQUIP\n\n[41> Aircraft 161520 and up.\n\n18AC-NFM-00-(12-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page128_1.png",
+    "text": "z Zz\nSo So\niz 5\noo lu\n| oo\nra uu\noi lu\nfan] a\nEs <\na rs\nWW Lu\nro) oo\nA a\noo lu\nfae) oO\nZz Zz\na =|\n3 g\n\n18AC-NFM-00-(15-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page134_1.png",
+    "text": "POS/INS UPDT SCL10 MK2\n\n7.2 300°/ 4.8\n1:02 hoo sé\n\n\\\n\n—\n410T \\ 420G\n\n/\n\nve] Lee] ex [us] [om] een Lo\nne |\n\nim \\\n=OmM AnNI<>Z 4—o1—_\n\nCSEL\n080°\n\nTIMEUFC AUTO\n\nNAME FUNCTION\n\nAj/P (autopilot) pushbutton. Displays the pilot relief options on the UFC.\n\n(2) ON/OFF pushbutton Engages the basic autopilot (heading\nhold), following selection of the A/P\npushbutton.\n\nOption display windows Displays AFCS options when A/P pressed.\n\nATTH - Attitude hold\n\nHSEL - Heading select\n\nBALT - Barometric altitude hold\nRALT - Radar altitude\n\nCPL — Coupled steering\n\nOption select pushbuttons Selects the AFCS mode displayed in the\nadjacent option select window.\n\nAIRCRAFT R Heading digital display Displays selected heading\n163985 AND UP\n\nCommand heading marker Displays selected heading\n\nHeading set switch Sets selected heading. Left decreases heading.\nRight increases heading.\n\nAutopilot/nosewheel steering Disengages AFCS\ndisengage lever (paddle switch)\n\n18AC-NFM-00-(17-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page149_1.png",
+    "text": "SYMBOL AIRSPEED\n\nSLOW\n\nSLIGHTLY SLOW\n\nON SPEED\n\nSLIGHTLY FAST\n\nVl\n7\nWY\n\np\\\n\\/\n~\nw\ni\\\nVW\nre\nw\n[\\\nVW\n~\nw\nN\\\nVW\na\nWY\ni\\\n\nSHADED INDICATES\nILLUMINATED\n\nINDEXER INDICATIONS ON\nAIRCRAFT 161353 THRU\n\n161519, WITH -906 ADC.\n\nAOA\n\n8.9° TO 90.0°\n\n8.1° TO 8.9°\n\n6.9° TO 8.1°\n\n6.4° TO 6.9°\n\n0° TO 6.4°\n\nINDEXER INDICATIONS ON\nAIRCRAFT 161520 AND UP.\n\nAOA\n\n9.3° TO 90.0°\n\n8.8° TO 9.3°\n\n7.4° TO 8.8°\n\n6.9° TO 7.4°\n\n0° TO 6.9°\n\n18AC-NFM-00-(125-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page172_1.png",
+    "text": "NORM\n\nR DAY AN iNS_A\nBo SF © BID\n\nJ\nREJ 2 1 @ —_ Cm <@) REJ 2 ‘OFF NIGHT\n\nAOA ALTAR Ts\n\nmu oe AOA 6 ATTD NORM , BRT es op LVL\n© OS OVID SYM\n\nRORO’ Oy\n\nSTBY\n\nAIRCRAFT 161353 THRU 163782 AIRCRAFT 163985 AND UP\n\n18AC-NFM-00-(138-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page178_1.png",
+    "text": "SYMBOLOGY REJECTION\n\n5L_. .-45 5L_. .-45\n\nREJECT 1 REJECT 2\n\n18AC-NFM-00-(23-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page182_1.png",
+    "text": "HEADING\n\nWATERLINE RATE OF\n\nHEADING CLIMB/\nWA AIRSPEED DESCENT\nfoie ain ; : sii Bbb| || [114 4 IIT IF |\nl l\n\nALTITUDE |\nANGLE OF ALTITUDE\nATTACK\n\nBAROMETRIC .\nSETTING ; BAROMETRIC\n\nFLIGHT PATH/ SETTING\nPITCH LADDER\n\nFLIGHT PATH/\npgs: PITCH LADDER\nAIRCRAFT G PEAK BANK FLASHING AIRCRAFT pe aie\n\nAIRCRAFT ANGLE VELOCITY C AIRCRAFT BANK ANGLE POINTER\n\nG POINTER VECTOR G\nAHRS MODE STANDBY MODE\n\nt\n\nANGLE OF\n\nATTACK \\\nSS HE\n\nv ebeceosoeceoerootonraorone=\n\nPEAK anoneee Ee FLIGHT PATH/\nAIRCRAFT G Fs PITCH LADDER\n\nVELOCITY sai BANK ANGLE POINTER\nVECTOR\n\nADC FAILURE\n\nSYMBOLOGY DATA SOURCE\n\nLITT anc RA rec GHA EEEEREEH ADC/INS\n\n1BAC-NFM-00-(24—-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page183_1.png",
+    "text": "\\/P\nPUSHBUTTON\n\nADF\nFUNCTION\nSELECT\nSWITCH\n\nPUSHBUTTON\nKEYBOARD\n\nCOMM 1\nVOLUME\nCONTROL\n\nCOMM 1\nCHANNEL\nDISPLAY\nWINDOW\n\nSCRATCHPAD OPTION\nWINDOW SELECT\nPUSHBUTTONS\n\nFUNCTION\nSELECTOR\nPUSHBUTTONS\n\nCHANNEL\nSELECTOR\nKNOB\n\nPILOT\nCUEING\n\nOPTION\nDISPLAY\nWINDOWS\n\nCOMM 2\nCHANNEL\nSELECTOR\nKNOB\n\nBRIGHTNESS\nCONTROL\nKNOB\n\nEMISSION\nCONTROL\nPUSHBUTTON\n\nCOMM 2\nVOLUME\nCONTROL\n\nCOMM 2\nCHANNEL\nDISPLAY\nWINDOW\n\n1BAC-NFM-00-(22-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page198_1.png",
+    "text": "INTERNAL MANUAL\nCANOPY HANDCRANK\n\nINTERNAL CANOPY\nSWITCH\n\nINTERNAL CANOPY\n\nJETTISON HANDLE\n\nco PUSH BUTTON TO OPEN\nte)\n\no\nOL OO EXTERNAL MANUAL CANOPY\noO\n\nACTUATION FITTING\nre]\n\nre) CANOPY JETTISON\nHANDLE INSIDE\n\nFOR EMERGENCY USE ONLY\nGRASP HANDLE EXTEND CABLE\n8 FT AND PULL TO\nJETTISON CANOPY\n(AIRCRAFT 161353 THRU 162477)\n\nEXTERNAL CANOPY EXTERNAL CANOPY\nJETTISON HANDLE SWITCH\n\n1BAC-NFM-00-(25-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page1_2.png",
+    "text": ""
+  },
+  {
+    "path": "./data/pdf_images\\page207_1.png",
+    "text": "STICKER\n\nSKU-3/A STICKER CLIP SE AASE EMERGENCY\nCLIP STRAP HANDLE OXYGEN\nSTRAP LUG GREEN\n\nRING\n\nLAP BELT EMERGENCY\nOXYGEN\nLANYARD\n\nLAP BELT\nATTACHMENT\nLUG\n\nRADIO\nBEACON\nACTUATOR\n\nRIGHT SIDE\n\nAIRCREW\nOXYGEN DISCONNECT\nHOSE AND\nCOMMUNICATION\nLEAD\n\nLAP BELT\nEMERGENCY\n\nOXYGEN GAGE\n\nSTICKER\n( my\n\nSp CUP\nr SS | LZ STRAP\nCUSHION —— A, a fo, - J\n\nSS\n\nSTICKER\nCLIP\nSTRAP\nLUG\nCONSOLE\nDISCONNECT\n\nLAP BELT\nATTACHMENT\nBULKHEAD LUG\n\nDISCONNECT LEFT SIDE\n\n1BAC-NFM-00-(28-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page208_1.png",
+    "text": "SKU-10/A\n\nOXYGEN/COMMUNICATIONS\nHOSE ASSEMBLY\n\n5 -\\w MANUAL EMERGENCY\nSTICKER : OXYGEN OPERATING\n. i HANDLE\n\nOXYGEN GAGE\n\nRADIO BEACON\n\nBEACON/EMERGENCY\nOXYGEN LANYARD\n\nLAP BELT ADJUSTER\n\nEMERGENCY OXYGEN\n\n(TOF) RELEASE MECHANISM\n\nFABRIC STRAP (5)\n\nSURVIVAL KIT\nRELEASE\nHANDLES\n\nBRACKET (2)\n\nMANUAL EMERGENCY\nOXYGEN OPERATING\n\nKIT CUSHION\n\nLOWER HARNESS\nLOCK LUG (2)\n\n(BOTTOM)\n\n18AC-NFM-O00-{144-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page235_1.png",
+    "text": "ATTITUDE\n\nATTITUDE\nREFERENCE\n\nALTITUDE\n\nALTIMETER\n\nANGLE OF\n\nFLIGHT\nCONTROL\nDERIVED\nAOA\n\nFLIGHT\nPATH\n\nMAGNETIC\nHEADING\n\nATTITUDE\nREFERENCE\n\nSTANDBY\nALTITUDE\n\nSTANDBY\nAIRSPEED\n\nLoD\n\nMAGNETIC\nCOMPASS\n\n18AC-NFM-00-(30-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page249_1.png",
+    "text": "HUD, HI, AND DDI BIT DISPLAY\n\n© A circle is displayed adjacent to the button only after\nindividual button is actuated and it passed functional test.\n\n® The diagonal line, 2 circles in the corners, film strip XX\n(map number), YY (select map number), and MAP button label\n\nonly appear on the horizontal indicator.\n\n® Stop button enables termination of CRT BIT.\n\nHUD, HSI AND DDI BIT DISPLAY\nAIRCRAFT 163985 AND UP\n\nGENERATED\nRASTER GREY SCALE\n\nmeee sa\n\nUPFRONT CONTROL BIT DISPLAY\n\n[xe] [=] ee] [ss] [on] fon) [or]\n\nNS L”\n\nFIRST 5-SECOND PERIOD\n\nAll outer segments of\nalphanumeric displays, all\nsegments of numeric displays,\nand all option cues illuminate.\n\n[we] [oe] ee [es] [or] foo) [oF\n\nSNS\n\nLL\n\nSECOND 5-SECOND PERIOD\n\nAll inner segments of\nalphanumeric displays, all\nsegments of numeric displays,\nand all option cues illuminate.\n\n1BAC-NFM-00-(34—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page250_1.png",
+    "text": "F/A-18A/B\nENGINE MONITOR\nINDICATOR BIT DISPLAY\n\nL_ ENGINE R\n\nF/A-18C/D\nIFE| BUTTON TEST DISPLAY\n\nL_ENGINE R\n\nTIME\nIP-S456\n\n(s ko + 4\n\n*\n\n100) 50 50 100\nTey BD\n\nPSI\n\nIllustrated indications appear for 8 seconds.\n\nAfter 8 seconds, digits cycle from 0 to 9;\nmost significant digit for RPM and FF only\nindicate 1 during this test.\n\nIFE| ALL SEGMENTS DISPLAY\nFIXED ZERO\n\nALPHA NUMERIC\nLEADING ONE\n\nBAB, * | HB\n\nX 100\n\n1BAC-NFM-00-(34-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page256_1.png",
+    "text": "POS= INS POSITION\nALN TIME= TIME IN SECONDS\nAQ= ALIGN QUALITY\nAC= STATE COUNTER\nFOR ALIGN MODE\nNAV TIME= TIME IN SECONDS\nPER= INS PERFORMANCE (EQUALS RADIAL ALN TIME=0522AQ=5 AC=4\nPOSITION ERROR IN NAUTICAL MILES/HR)\n\nPOS N38°45.66' WO90°21.90'\n\nNAV TIME=02335 PER=00.0\n\nTO CHECK INS PERFORMANCE, DO AN UPDATE,\nOVFLY, TO WAYPOINT 0. FLIGHT 1\n\nFLIGHT 1 THRU 5 (FLIGHT 1 SHOWN) - POST 1 DISPLAY\n\nERROR= IN N/S OR E/W, THE UPDATES\nARE ADDED ALGEBRAICALLY\nCUM= ABSOLUTE VALUE OF UPDATES\nVEL= VELOCITY IN N/S OR E/W DIRECTION 900.00 +015\nUPDATES= NUMBER OF UPDATES\n\nCUM\n\n000.0 +01.2\n\nFLIGHT 1\n\nFLIGHT 1 THRU 5 (FLIGHT 1 SHOWN) - POST 2 DISPLAY\n\n1BAC-NFM-00-{(36-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page275_1.png",
+    "text": "USABLE FUEL\nGALLONS| POUNDS | POUNDS\nJP-5 JP-4\na\nNumber 2\nLeft Engine Feed 265 1,790 1,710\nNumber 3\n\n1,317 8,960 8,560\n\nes [as _| sao [0 [sso] |\ni | 10 | i00 |\n\nTANK\n\nTotal Fuselage\n\nLeft and Right\nInternal Wings\n\nTotal Internal 1,487 }ronn0 | 9,670\n\nEXTERNAL TANK(S)\n\nElliptical Wing\n\nor Centerline Tank mio no\nCylindrical Wing\nor Centerline Tank 2,240 2,180\n\nNOTES\n\n® The fuel quantities, in pounds, are rounded\noff to the nearest 10 pounds. Therefore, the\nactual gallons times 6.8 or 6.5 will not necessarily\nagree with the pounds column.\n\n@ Fuel weights are based on JP-5 or JP-4 at\n6.8 or 6.5 pounds per gallon and a temperature\n\nof 15°C(59°F).\nINTERNAL\n\nWING TANK\n\nTANK 3\nRIGHT ENGINE\n\nFEED\nAIR\n\nREFUELING\nPROBE\n\nINTERNAL\nTANK 2 WING TANK\nLEFT ENGINE\n\nFEED\n\nFUEL QTY\n\n7 LB X 1000\n\nFe] Lis]\nTOTAL LBS\nLEFT RIGHT\n\nBINGO\nTRANS\nFEED\n\n1BAC-NFM-00-{(38-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page287_1.png",
+    "text": "iN N\n-FAANS NN N\nHL LAARAAAAN\nAAAS INXS\n\nrr\nra\n2\nis\n}\n\nI\nlu\na\n=\na\na\n\nVELOCITY - KNOTS os)\n\n1BAC-NFM-OO-(39-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page294_1.png",
+    "text": "AIRCRAFT THRU 161924\nBASIC AIRCRAFT WITH OR WITHOUT AIM-7 AND/OR AIM-9\n\neee 1\nCLC acon\nFEEEEEE Se\n\nZERO G FLIGHT, EXCEPT TRANSIENT, PROHIBITED TTT\n\nee\n|b beers See\n\nSo fe\n\nACCELERATION — G UNITS\n\nGROSS WEIGHT — 1000 LBS\n\nPTT} {|} tT? Ty yy te te EET TT Yt\n\nn\nF\nZz\n=)\no)\nz\no\na4\na\nLu\n|\nLu\n3)\nO\n<\n\n34 36 38 40 42 44 46 48\n\nGROSS WEIGHT — 1000 LBS\nNOTES\n\n@ See External Stores limitations for additional G limitations\n\n@ With the G limiter operating normally (no G-LIM 7.5 G caution)\nthe unsymmetrical maneuvers limit shown here is valid only\nfor full lateral stick displacement.\n\n@ For aircraft with G limiter, G limiter overshoots up to 8.0\nG (permitted by G limiter) do not constitute an overstress.\nOverstress inspection is not required unless MMP code 811 is\nset.\n\n18AC-NFM-00-(40-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page295_1.png",
+    "text": "AIRCRAFT 161925 AND UP\nBASIC AIRCRAFT WITH OR WITHOUT AIM-7 AND/OR AIM-9\n\n= a\nEEE ee A\nCCE\nCOAT =\nCOTTE\nCOTTE\n\nACCELERATION — G UNITS\n\nGROSS WEIGHT - 1000 LBS\n\nee ee —\nae\n\n| | tt oe aus oe a\nCERES ee oo\nCCE EEE eee\npt tT TT tT te tT tt TT TT ET TT TT TT\npti ttt tT tT tt tt tT tT ET ET ET ET TT\nSPERPSEEREA RES SSSsssssss\n| ZERO G us Z j CEPT TRANS|ENT, PRO a ED Ty | | | ft it tT Ey\n\nU2g0s Renee enn\n\n+\nbs g\nteeatete\n\n”\nFE\nZz\n=)\nO\n]\nz\no\n<\na\nLi\n—_l\nLu\nO\nOo\n<\n\nGROSS WEIGHT - 1000 LBS\nNOTES\n\n@ See External Stores Limitatons for additional G limitations.\n\n@ With the G limiter operating normally (no G-LIM 7.5 G caution),\nthe unsymmetrical maneuvers limit shown here is valid only\nfor full lateral stick displacement.\n\n@ For aircraft with G limiter, G limiter overshoots up to 8.0\nG (permitted by G limiter} do not constitute an overstress.\nOverstress inspection is not required unless MMP code 811 is\nset.\n\n18AC-NFM-00-(40-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page337_1.png",
+    "text": "LANDING GEAR DOWN\n\nSPEEDBRAKE FLAPS FULL\nRETRACT 250 Knots\n\nSPEEDBRAKE (as required)\n\nBreak\n\nENTER\nArmament Switches OFF\n\nLANDING CHECK LIST\nTOUCHDOWN\n\nThrottles idle\n\nWAVEOFF\n\nMil Power (Max if required)\nRetract gear and flaps only after\nsafe climb is established.\n\nBASE LEG\n\na Maintain on speed AOA\n\nNOTE\n\nMake all approaches on\nthe mirror or Fresnel\nlens optical landing\nsystems, when available.\n\nFINAL APPROACH\nMaintain on speed AOA\n\n1BAC-NFM-00-(44-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page366_1.png",
+    "text": "RUNWAY\nCENTERLINE\n\nO 4h.\n@\n\n2 PLANE FORMATION 3 PLANE FORMATION\n\n@\n\n©)\n\nRUNWAY\nCENTERLINE\n\nHy\n\n4 PLANE FORMATION\n\n18AC-NFM-00-(50-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page369_1.png",
+    "text": "2 cone of\nmaneuver\n\n3 cone of\nmaneuver\n\n4 cone of\nmaneuver\n\nCRUISE\n\n18AC-NFM-00-(51-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page397_1.png",
+    "text": "F404—GE-400 ENGINES\nEXHAUST GAS TEMPERATURE (EGT) - °C\n\n640 650 660 670 680 690 700 710 720 730 740 750 760 770 780 790 800 810 820 830\n\nENGINE INLET TEMPERATURE (1, )-\n\n91 92 93 94 95 96 97 98 99 100 101 102 103\nLOW PRESSURE COMPRESSOR (Nj ) - % RPM\n\nF404—GE-402 ENGINES\nEXHAUST GAS TEMPERATURE (EGT) -°C\n\nSSSR ELE ELLE ELLE LLL\nERE SSSSS SR EERE\n\nSERRE Pt te tT tT tT TT TE Tt\nSERRE SN || tt tt\nPt TT | AR\n\na\n=\nN\nSn\n\n1\n\n|_|\n|_|\n|\na\n\na 4n~ SRE\nae\n\n‘J\n\nN\\\n\nNy\n\n||\n=\na\n|_|\na\nN.\n\na\nPh |\n~ PR\nmia\nPNAS ooEP\nmal\nHf\nTIN.\nfy\n\niN,\n\nAAA | WV\n\nENGINE INLET TEMPERATURE (T, } - °C\n\nMLSS\n\nPy\nCREAT\nSS SnAe\nTAR\nSL\n\nI\n\n88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105\nLOW PRESSURE COMPRESSOR (N,) - % RPM\n\n1BAC-NFM-00-{52-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page458_1.png",
+    "text": "F/A-18B 161354 THRU 161360 WITHOUT CG CONTROL SYSTEM\n\n< FEED TANKS\n\nQo\n4\n>\n2\nx\n\nLASTS 10%\nLANCZS\n\nw\na\nZz\n5\nrs\na\n2\n3\n2.\n\\\n_\noo\n9S\nluo\n=\n3\nSo\noe\n<\n\nTOTAL INTERNAL FUEL REMAINING - 1,000 POUNDS\n\nPt tt tT TT tt || |\nEEE EEEEEEEEEE NCEE\npt ttt tt tT yt tT tT tt tt || ttt\n\nSRN\nPT tT tt tT ee te tT ET PT TT | AY | tT YT\nPTT TT eT te ye ee PT TP ET ET TT ET TT\n\nCG% MAC\n\nWARNING NOTE\nGEAR DOWN\n\nFAILURE TO UTILIZE \"TOTAL CG CORRECTION\" AS DETERMINED ‘eC oN.\n\nIN FIGURE 11-4 WILL RESULT IN INCORRECT CG CALCULATIONS.\n\nTIME TO RECOVER FROM A DEPARTURE IS SIGNIFICANTLY NO EW EQUIPMENT\nINCREASED WHEN CG IS IN THE AFT RANGE WHERE AOA\n\nLIMITATIONS ARE IMPOSED BY CONFIGURATION.\n\n1BAC-NFM-00-(55-1)32-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page459_1.png",
+    "text": "F/A-18B 161704 THRU 163123 WITH CG CONTROL SYSTEM\n\nPt tT tT tT ee tT tT ET PTT TT ET tT\nptt tet tT tT tte TT TT ET TT TT TT TT\nPT tT tT tT tee tT tT TT TTT TT ET | TT\nPt} TT tT TT TT fT | eto tones | | | | tT | | tT\nSRR See\nPt} TT tT TT TT TT | A winctanes | TT | | | Tt tT\n{ttt tt tT tt ree tt tt tescaymow on | P| t |\n\nPt tt tt | aaa\n\nw\na\nZz\n5\nrs\na\n2\n3\n2.\n\\\n_\noo\n9S\nluo\n=\n3\nSo\noe\n<\n\nTOTAL INTERNAL FUEL REMAINING - 1,000 POUNDS\n\nPT IN eo tames L | TT TT\nCoo nC\n\nN\\ Nan TANKS\n\n| | || |\nCEE ECE PREC EEE\nPp} tT EET TT Pe ETE TE EE EE\n\nCG% MAC\n\nWARNING NOTE\nGEAR DOWN\n\nFAILURE TO UTILIZE \"TOTAL CG CORRECTION\" AS DETERMINED ‘eC oN.\n\nIN FIGURE 11-4 WILL RESULT IN INCORRECT CG CALCULATIONS.\n\nTIME TO RECOVER FROM A DEPARTURE IS SIGNIFICANTLY NO EW EQUIPMENT\nINCREASED WHEN CG IS IN THE AFT RANGE WHERE AOA\n\nLIMITATIONS ARE IMPOSED BY CONFIGURATION.\n\n1BAC-NFM-00-(56-1)32-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page545_2.png",
+    "text": "BERANRENNNISNNS\n\nNX\n\nFy\nWw\nO°\nSo\n3\n\n'\nLlu\na\n=)\ni\n5\n<f\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(59-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page545_3.png",
+    "text": "Fy\nWw\nQ\nrs)\nrs)\n\n1\nld\na\n>\n—\na\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(60-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page546_2.png",
+    "text": "Fi\nWw\nQ\nrs)\nis)\n\n1\n[Ea\na\n>\n—\na\n<<\n\nVELOCITY - KNOTS (CAS)\n\nNOTE Restarts above 25,000 feet are possible, but not probable.\n\n18AC-NFM-00-(61-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page546_3.png",
+    "text": "NOTES\n@ An APU restart should not be attempted\nexcept as a last resort.\n© APU start probability is improved if HYD\nISOL ORIDE is selected for 10 seconds\nbefore attempting start.\n\nIEEE\n\nPRANK\nADORNS\n\n500\n\nFy\nWw\nQ\nrs)\nrs)\n\n1\nld\na\n>\n—\na\n\nVELOCITY - KNOTS (CAS)\n\n18AC-NFM-O0-(62-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page5_1.png",
+    "text": "DEPARTMENT OF THE NAVY\nNAVAL AIR SYSTEMS COMMAND\nRADM WILLIAM A. MOFFETT BUILDING\n47123 BUSE ROAD, BLDG 2272\nPATUXENT RIVER, MD 20670-1547\n\n15 September 2008\n\nLETTER OF PROMULGATION\n\n1. The Naval Air Training and Operating Procedures Standardization (NATOPS) Program is a\npositive approach toward improving combat readiness and achieving a substantial reduction in the\naircraft mishap rate. Standardization, based on professional knowledge and experience, provides the\nbasis for development of an efficient and sound operational procedure. The standardization program\nis not planned to stifle individual initiative, but rather to aid the Commanding Officer in increasing\nthe unit’s combat potential without reducing command prestige or responsibility.\n\n2. This manual standardizes ground and flight procedures but does not include tactical doctrine.\nCompliance with the stipulated manual requirements and procedures is mandatory except as\nauthorized herein. In order to remain effective, NATOPS must be dynamic and stimulate rather than\nsuppress individual thinking. Since aviation is a continuing, progressive profession, it is both\ndesirable and necessary that new ideas and new techniques be expeditiously evaluated and\nincorporated if proven to be sound. To this end, Commanding Officers of aviation units are\nauthorized to modify procedures contained herein, in accordance with the waiver provisions\nestablished by OPNAV Instruction 3710.7, for the purpose of assessing new ideas prior to initiating\nrecommendations for permanent changes. This manual is prepared and kept current by the users in\norder to achieve maximum readiness and safety in the most efficient and economical manner. Should\nconflict exist between the training and operating procedures found in this manual and those found\nin other publications, this manual will govern.\n\n3. Checklists and other pertinent extracts from this publication necessary to normal operations and\ntraining should be made and carried for use in naval aircraft.\n\nmiral, United Sfagis Navy\nBy direction of\nCommander, Naval Air Systems Command"
+  },
+  {
+    "path": "./data/pdf_images\\page632_2.png",
+    "text": "AIRCRAFT SPEED\n130-150 KNOTS\nIN LEVEL FLIGHT\n\nEJECTIONS ABOVE EACH LINE\nARE SAFE FOR THE STATED\nCONDITIONS. EJECTIONS\nBELOW EACH LINE ARE\n\n|\n| ft | | ert tt\nCCR\n\nee ee\n\n1000 2000 3000 4000 5000 6000 7000 8000 9000 10000\n\nAIRCRAFT SPEED\n130-150 KNOTS\nIN LEVEL FLIGHT\n\naz\n[eo]\n=\nir\n1\nz\nS\n&\nlo\nrf\n_\n5\nLL\nB\ni\no\n3S\n=)\na\noe\n2\na\nlo\no&\n5\nfos\nlu\nia\nlu\na\n=)\ni\nFB\n<\n=\n5\n2\nz\n=\n\nNOTE\n\nEJECTIONS ABOVE EACH LINE\nARE SAFE FOR THE STATED\nCONDITIONS. EJECTIONS\nBELOW EACH LINE ARE\n\n|\nAt || | | | pert tt\n| | | eet Pte ff et tt tt\nLEE —rT | | ttt\n—rrtT}| |} tie} tt tt\n\n1000 2000 3000 4000 5000 6000 7000 8000 9000 10000\n\nAIRCRAFT SINK RATE — FEET PER MINUTE\n\n1BAC-NFM-00-(67-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page633_2.png",
+    "text": "SJU-17 (F/A-18C)\n\ni\n=x\nFy\nWe\n1\nz\nS\n&\nlo\n2\nLlu\nnl\n5\nLe\n7\noH\nlu\no\nr=)\n>\n7)\nce\nS\nWw\na\nlo\noe\n5\nfos\nlu\na\nlu\na\n=)\nE\n5\n<\n=\n=)\n2\nz\n=\n\n4000 6000 8000\n\nAIRCRAFT SINK RATE - (FEET PER MINUTE}\nLEGEND\n\n@ Minimum ejection heights are based on initiation of the escape system. ——————_ 130 KNOTS\n\n— — — 250 KNOTS\n@ Pilot reaction time is not included. 400 KNOTS\n\n—-——— 600 KNOTS\n@ Ejection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(67-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page634_2.png",
+    "text": "SJU-17 (F/A-18D)\n\naz\nQ\n=\nHs\nra\n!\nz\n=\n—\noO\ntu\nFs)\na\n>\nbo\nn\nie)\ntu\nQ\nS\n2\n“n\no\npra\nfam)\ntu\n=\n>\nles\ntu\no\ntu\na\n_)\n=\na\n<\n=\n2\n2\nzZ\n=\n\n4000 6000 8000\n\nAIRCRAFT SINK RATE - FEET PER MINUTE\nLEGEND\n\nMinimum ejection heights are based on initiation of the escape system, 130 KNOTS\nand the time required for a complete dual sequenced ejection is included. — — — 950 KNOTS\n\nPilot reaction time is not included. ———— _ 600 KNOTS\n\nEjection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(67-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page635_2.png",
+    "text": "SJU-5/6 AIRSPEED, DIVE ANGLE AND BANK EFFECTS (F/A -18A/C)\n\n5\ni\n\n>\n\nA\n|\n__\nes\n|\n|\nte\n\n——_\n——.\n\nNOTS\n\ncas\n\nSe\n\n-\n-\n-\nZ\n—\nz\n~\n——\ncE\n\ny\nLEE Lo)\nomnes oo\n\nZe [eeea\n\nNw\nNN\naN\noa\n\n|_|\n\n)\n\nae\n| | EV |\n\n|\n\n750\n\nx\n\nMINIMUM EJECTION HEIGHT - FEET (AGL)\n\nCea\nani\n-\niz\n|\n\nTACK MAAN\nATS\n\noO\n\nAIRCRAFT DIVE ANGLE FROM HORIZONTAL (0° ne VERTICAL (90°)\nNOTES\n° Mi m ejection heights are based on initiation of the @ Pilot reaction time is not included.\n@ Ejection altitude i * below 5000 feet MSL.\n° nk angle data is is for coordina rated Hight. Yow or slip will\nse the height reauie ired for recovery."
+  },
+  {
+    "path": "./data/pdf_images\\page636_2.png",
+    "text": "SJU-17 AIRSPEED AND BANK ANGLE EFFECTS (F/A-18C)\n\naz\nQ\n=\nEs\nra\n!\nz\n=)\n—\noO\ntu\n|\n=\n=)\nto\nn\noy\ntu\nQ\nSo\n2\nnn\n©\n[ra\n[am]\ntu\n=\n>\nao\nway\noe\ntu\na\n2\nE\na\n4\n=\n2\n2\nZz\n=\n\n100\n\nAIRCRAFT BANK ANGLE - DEGREES\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system.\n\nBank angle data is for coordinated flight. Yaw or slip will increase —————_ 130 KNOTS\nthe height required for recovery. — — — 2OKNOTS\nPilot reaction time is not included. 400 KNOTS\nEjection altitude is below 5000 feet MSL. ——-—-—— 600 KNOTS\n\n1BAC-NFM-00-(68-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page637_2.png",
+    "text": "SJU-17 AIRSPEED AND DIVE ANGLE EFFECTS (F/A-18C)\n\nMINIMUM ALTITUDE REQUIRED FOR SUCCESSFUL EJECTION — FEET (AGL)\n\naN\nYs\n\nIS\n\\\\ os\n\n~\n‘\n~ ~\nIN\n\n\\ - Sy '\n\na\nCd\n7\nZ|\n7\n7\n”\nss\nre\n7\n7\n7\na\n7\nZ|\n7\n7\n7\n—\n—_—\naa\n—T |\ncn\n\n30 40 50\n\nAIRCRAFT DIVE ANGLE - DEGREES\n\nNOTES LEGEND\n\n@ Minimum ejection heights are based on initiation of the escape system.\n@ Pilot reaction time is not included. ————_ 130 KNOTS\n\n@ Ejection altitude is below 5000 feet MSL. — — — 2580 KNOTS\n400 KNOTS\n\n————— 600 KNOTS\n\n1BAC-NFM-00-(68-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page638_2.png",
+    "text": "SJU-5/6 AIRSPEED, DIVE ANGLE AND BANK ANGLE EFFECTS (F/A-18B/D)\n\nMINIMUM EJECTION HEIGHT — FEET (AGL)\n\n2000\n\n1900\n\n1800\n\n1700\n\n1600\n\n1500\n\n|e ett | ty tt beg\n|} tit ty yt | Lg\n| ty} ti | | | ey\nHat 4\n| ty tt\nfifi tte,\n\noA\n\\_\nEASE\n\nCEE Ea NY\nSe Eee |\nVi | | is¥ | fT | ay\n\ni)\now\no\naN\nZz\nfo)\n4\nuw\n\n| hs\\\n\nAIRCRAFT DIVE ANGLE FROM HORIZONTAL (0°) TO VERTICAL (90°)\nNOTES\n\nm ejection heights a re bos ed 0 ni ation of the ©@ Aircrew reaction time is not included.\ncape syste and the um required fo complete @ Ejection altitude is below 5000 feet MSL.\ndu al seque ced eje ection nl ded.\n° nk angle e data s for oortna inated flight. Yaw or slip will\nincrease the height r eau ired for recovery.\n\n|\nfo evors\nio oO"
+  },
+  {
+    "path": "./data/pdf_images\\page639_2.png",
+    "text": "SJU-17 AIRSPEED AND BANK ANGLE EFFECTS (F/A-18D)\n\n=a\n2)\n=z\nFy\n[a\n1\nz\n=)\n5\nLu\nud\n_\n=)\nLo\nDH\nwa\nLu\ncS)\n3\n=)\n7)\no\nWw\na\nLo\n&\n5\nao\nLo\nla\nLlu\na\n=)\ni\nFy\n<f\n=\n5\n2\nz\n=\n\n_—_————£\n0) 80 100 120 140 160 18\n\n0 20 6 0\n\nAIRCRAFT BANK ANGLE - DEGREES\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system,\n\nand the time required for a complete dual sequenced ejection is included. ————_ 130 KNOTS\nBank angle data is for coordinated flight. Yaw or slip will increase — — — 250 KNOTS\nthe height required for recovery. 400 KNOTS\nAircrew reaction time is not included. —-—-—— 600 KNOTS\nEjection altitude is below 5000 feet MSL.\n\n1BAC-NFM-00-(69-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page640_2.png",
+    "text": "SJU-17 AIRSPEED AND DIVE ANGLE EFFECTS (F/A-18D)\n\n~\n~\n~\n\nMINIMUM ALTITUDE REQUIRED FOR SUCCESSFUL EJECTION — FEET (AGL)\n\naD\n7\nwa\n7\n4\n7\n7\n7\na\n“\n\n30 40 50\nAIRCRAFT DIVE ANGLE FROM HORIZONAL (0°) TO VERTICAL (90°}\n\nNOTES LEGEND\n\nMinimum ejection heights are based on initiation of the escape system,\nand the time required for a complete dual sequenced ejection is included. ——— _ 130 KNOTS\nAircrew reaction time is not included. — — — 250 KNOTS\n\nEjection altitude is below 5000 feet MSL. 400 KNOTS\n———— 600 KNOTS\n\n1BAC-NFM-00-(69-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page641_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS\n\nLEG RESTRAINTS\n\nSEAT HEIGHT ADJUSTMENT\n(SEAT BUCKET POSITION SWITCH)\n\nOXYGEN GAGE\n\nEMERGENCY OXYGEN ACTUATOR\n(GREEN RING)\n\n18AC-NFM-00-(70-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page642_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nEJECTION HANDLE\n\nSAFE/ARMED HANDLE\n\nEMERGENCY RESTRAINT RELEASE HANDLE\n(MANUAL OVERRIDE HANDLE}"
+  },
+  {
+    "path": "./data/pdf_images\\page643_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nPINS REQUIRING REMOVAL\nPRIOR TO FLIGHT:\n\nDROGUE GUN SAFETY PIN\n\nROCKET MOTOR INITIATOR SAFETY PIN\n\n4RAP NIEMA AN FIN W414 FATT"
+  },
+  {
+    "path": "./data/pdf_images\\page644_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\n\nTIME RELEASE MECHANISM\nSAFETY PIN\n\nEMERGENCY RESTRAINT\nRELEASE SAFETY PIN"
+  },
+  {
+    "path": "./data/pdf_images\\page647_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\nAUTOMATIC SEAT/MAN SEPARATION\n\nLOW ALTITUDE SEQUENCE\n\n@ After pulling the ejection control handle, the IFF is actuated, the inertia reel positions the\noccupant, and the canopy jettisons.\n\nA Catapult fires and seat is propelled up guide rail. Occupant's legs are restrained. Emergency\noxygen is actuated, and the time release mechanism and drogue gun are tripped. The\nrocket pack fires near the end of the catapult stroke.\n\nB Drogue gun fires. Controller droque and stabilizer drogue are deployed to stabilize and\ndecelerate seat.\n\nLOW/MEDIUM ALTITUDE SEQUENCE\n\nC Same as High Altitude except the time release mechanism actuates approximately 1.5 seconds\n\nafter ejection if below 7500 feet MSL If above 7500 feet MSL and less than 3 g's on seat, the\ntime release mechanism actuates in approximately 1.5 seconds.\n\nNOTE\nIf emergency oxygen fails to activate\nupon ejection, pull the oxygen release\n\nring located on the left forward top\nof the seat kit.\n\nHIGH ALTITUDE SEQUENCE\nD When between 14,500 MSL and 11,500 feet MSL is reached, the time release mechanism\n\nactuates to release the occupants harness and leg restraint lines. The scissor shackle is released\nand the drogue chute pull the link line to deploy the main parachute.\n\nE The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nWARNING\n\nIf high terrain is not a factor, do not use\n\nmanual seat/man separation until below\n11,500 feet MSL.\n\n18AC-NFM-00-(70-7)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page64_1.png",
+    "text": "F/ Aig A/c —=\"_"
+  },
+  {
+    "path": "./data/pdf_images\\page651_2.png",
+    "text": "SJU-5/6 SEAT SYSTEMS (CONTINUED)\nPARACHUTE LANDING FALL (PLF) PROCEDURES\n\nUpon toes touching ground surface:\n\n1. Arch side of body in direction of fall.\n2. Contact ground at five points of body contact:\na. Balls of feet.\nb. Calf.\nc. Thigh.\nd. Buttocks.\ne. Upper back.\n3. Release parachute fittings.\n\nRAFT BOARDING\nWhen clear of the parachute canopy, retrieve the LR—1 life raft by locating the dropline and pulling the raft to you.\n\nNOTE\n\n1. Locate and remove the raft Ensure that raft retaining lanyard\nretaining lanyard from its ; is securely attached and oxygen\npocket just above the CO 2 \\ hose has been disconnected from\ncylinder. seat kit (if not previously\n\naccomplished) before releasing\nupper half of seat kit.\n\n. Attach the snaphook to gated helo—hoist lift ring.\n\n. Locate the quick-release fitting and release upper half\nof seat kit,\n\n. Bring raft around for entry into smaller end (stern).\n\n. Grasp stern and forcibly push under LPU waist lobes.\n\n. Using boarding handles, pull into raft and tum toward\na seated position.\n\n. Locate the sea anchor and deploy it.\n\n. Retrieve lower half of seat kit.\n\nNOTE\n\n@ The AN/URT-33A is not secured and\nonce removed from the seat kit, care\nmust be taken to prevent its loss.\n\n@ The AN/URT-33A has a retrieval lanyard\nsecured to it with rubber bands. Attach\nthe lanyard to a suitable place on\nsurvival equipment. Then remove the\nAN/URT-33A from its bracket.\n\n9. Locate and retrieve the AN/URT-33A from the lower half\nof the seat kit.\n\n10. Immediately, secure survival package to gated helo-\nhoist lift ring.\n\n18AC-NFM-00-{70-1 1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page652_2.png",
+    "text": "”n\n=\nLu\nke\nvp)\n>\n”Y\n<\nLi\nn\nNK\n|\n=)\nFd\n”Y\n\nSHOULDER HARNESS LOCK LEVER\n\nLEG RESTRAINTS\n\nSEAT HEIGHT ADJUSTMENT\n(SEAT BUCKET POSITION SWITCH)\n\nSURVIVAL KIT RELEASE HANDLE\n\nEMERGENCY OXYGEN ACTUATOR\n(GREEN RING)\n\nOXYGEN GAGE\n\n1)31-CATI\n\n(147-\n\n18AC-NFM-00-"
+  },
+  {
+    "path": "./data/pdf_images\\page653_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\n\nEJECTION HANDLE\n\nSAFE/ARMED HANDLE\n\nEMERGENCY RESTRAINT RELEASE HANDLE\n(MANUAL OVERRIDE HANDLE}\n\n18AC-NFM-00-(147-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page654_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\n\nmas!\nLo\n\nEJECTION HANDLE SAFETY PIN\n\n18AC-NFM-00-(147-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page657_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\nAUTOMATIC SEAT/MAN_SEPARATION\n\nALL EJECTION SEQUENCES\n\n@ After pulling the ejection control handle, the IFF is actuated, the inertial reel positions the\noccupant, and the canopy jettisons.\n\nA Catapult fires and seat is propelled up quide rail. Occupant's legs are restrained. Emergency\noxygen and radio beacon are actuated. The rocket pack fires near the end of the catapult\nstroke. Drogue catapult fires. Drogue is deployed to stabilize and decelerate seat.\n\nLOW/MEDIUM ALTITUDE SEQUENCE (Below 18,000 feet MSL)\n\nB Drogue releases from seat. Parachute deployment rocket fires to extract and deploy main\nparachute. Hamess and leg restraint lines released. Drogue release and parachute deployment\noccur between .45 and 2.9 seconds dependent on airspeed and altitude.\n\nC The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nNOTE\nIf emergency oxygen fails to activate\nupon ejection, pull the oxygen release\nring located on the left forward top\nof the seat kit.\n\nHIGH ALTITUDE SEQUENCE (Above 18,000 feet MSL)\n\nD Drogue remains connected to seat until below 18,000 feet MSL, where drogue release, parachute\ndeployment, harness and leg restraint release occur.\n\nE The opening shock of the parachute separates occupant from the seat allowing normal descent.\n\nWARNING\n\nIf high terrain is not a factor, do not use\nmanual seat/man separation until below\n14,000 feet MSL.\n\n18AC-NFM-00-(147-6)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page660_2.png",
+    "text": "SJU-17 SEAT SYSTEMS (CONTINUED)\nPARACHUTE LANDING FALL (PLF) PROCEDURES\n\nUpon toes touching ground surface:\n\n1. Arch side of body in direction of fall.\n2. Contact ground at five points of body contact:\na. Balls of feet.\nb. Calf.\nc. Thigh.\nd. Buttocks.\ne. Upper back.\n3. Release parachute fittings.\n\nRAFT BOARDING\nWhen clear of the parachute canopy, retrieve the LRU-23/P life raft by locating the dropline and pulling the raft to you.\n\n1. Locate and remove the raft\nretaining lanyard from its\npocket just above the CO 2\ncylinder.\n\n. Attach the snaphook to gated helo-hoist lift ring.\n\n. Locate the quick-release fitting and release\nseat lid.\n\n. Bring raft around for entry into smaller end (stern).\n\n. Grasp stern and forcibly push under LPU waist lobes.\n\n. Using boarding handles, pull into raft and tum toward\na seated position.\n\n. Locate the sea anchor and deploy it.\n\n. Retrieve survival kit.\n\nNOTE\n\nEnsure that raft retaining lanyard\nis securely attached and oxygen\nhose has been disconnected from\nseat kit (if not previously\naccomplished) before releasing\nseat lid.\n\nNOTE\n\n@ The AN/URT-33A is not secured and\nonce removed from the seat lid, care\nmust be taken to prevent its loss.\n\n@ The AN/URT-33A has a retrieval lanyard\nsecured to it with rubber bands. Attach\nthe lanyard to a suitable place on\nsurvival equipment. Then remove the\nAN/URT-33A from its bracket.\n\n9. Retrieve seat lid.\n\n10. Remove seat cushion front lid.\n\n11. Locate and retrieve the AN/URT-33A from\nunder the cushion on the left side of the kit lid.\n\n12. Immediately secure survival package to gated\nhelo-hoist lift ring.\n\n18AC-NFM-O0-{147-9)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page661_2.png",
+    "text": "PARACHUTE STEERING\n\nPull down on left or right lanyard to steer in desired direction.\n\nLANDING PREPARATION OVER WATER LANDING PREPARATION OVER LAND\n\nTry to determine the wind direction at the surface using Perform the same procedures as for over water, but with\nwhite caps, smoke from the wreckage, or known surface winds the following exceptions:\n\nin the vicinity. Note that the winds at the surface may be\n\nquite different from those encountered at altitude. 1. Visor - down.\n\nWhen nearing the surface, maneuver the parachute so that you\nare facing into the wind. Then assume the proper body\n\nposition for landing: 3. Do NOT deploy seat kit.\n@ Feet together.\n\n2. Gloves - on\n\n@ Knees slightly bent.\n\n@ Toes pointed slightly downward.\n\n@ Eyes on the Horizon.\n\n@ Firmly grasp canopy release fittings.\n\n@ Tuck elbows in prior to water entry,\n\nWARNING\n\n@ If a parachute landing is made into the water\nor a high wind prevents normal spilling of\nthe parachute canopy, disconnect both quick—\nrelease fittings that attach risers to the torso—\nharness suit, thus jettisoning the parachute\ncanopy.\n\n@ Do not disconnect the quick-release fittings\nuntil after contact with ground or water.\n\n18AC-NFM-00-(70-12)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page662_2.png",
+    "text": "RESCUE\n\nIf survivor pickup is to be effected by rescue helicopter, the following procedures should be followed: (Unassisted rescue - no swimmer deployed)\n\n1. Stow or discard loose gear, roll out of raft on right\nside (side with CQ) cylinder),\n\n2. Swim away from raft. Ensure that helmet visor has\nbeen lowered.\n\n3. Remove raft retention lanyard after rescue device has\n\nbeen lowered.\nWARNING\n\n@ To allow discharge of static electricity and prevent\nelectrical shock, avoid touching rescue device until\nit has made contact with water/ground.\n\n© To avoid severe injury, keep hands clear of hook and\nring assemblies during hoisting.\n\n@ Under no circumstances should survivors attempt to\nassist their entrance into helicopter or move from\nthe rescue device until helicopter aircrewman assists\nthem to a seat in the aircraft.\n\nPROCEDURES FOR USE OF THE RESCUE HOOK\n\n1. Attach large hook to gated helo-hoist lift ring.\n\n2. Cross arms in front of chest and place head down\nand to the left. Give thumbs-up signal to helo—\nhoist operator.\n\nNOTE\n\nThe helo rescue hook\nhas a small and large\nhook. The large hook\nis the primary hook\n\nfor hoisting personnel.\n\n3. Position of aircrewman during\nhelo—hoist. Upon clearing ground/\nwater, cross feet.\n\n18AC-NFM-00-(70-13)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page663_2.png",
+    "text": "PROCEDURES FOR USE OF THE RESCUE STROP (HORSECOLLAR)\n\nV RINGS 1. Grasp free end of rescue strop.\n\n2. Swim in a circle toward rescue hook completely\nencircling body with rescue strop.\n\nRETAINER\nae POCKETS\nPULL TABS\nFOR RETAINER\nSTRAPS\nEJECTOR\nRETAINER SNAP\nPOCKETS\nRETAINER 3. Attach free end of strop\nSTRAPS\nFREED to large hook.\nV RING\n\nV RINGS\n\n4. Pull both retainer straps free and connect ejector snap to V-ring of other retainer strap. Pull tight.\n\n5. Ensure rescue strop is above PRU waist lobes and high on back. Wrap arms around strop and\nplace hands in armpits. Keep head down, and give thumbs up signal to helo-hoist operator.\n\n6. Position of aircrewman\nduring hoist, Upon\nclearing water, cross\nfeet.\n\n18AC-NFM-00-(70-14)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page664_2.png",
+    "text": "PROCEDURES FOR USE OF THE FOREST PENETRATOR\n\nAN PULL TAB FOR\nSAFETY STRAP\n\nSAFETY STRAP\n\nFLOTATION COLLAR\n\nW\neT K +5 SEATS EXTENDED\n\nNa;\n\nForest penetrator with flotation\n\nForest penetrator with flotation\ncollar and seats extended.\n\ncollar and seats retracted (safety\nstraps omitted to show connection\nof rescue hook to eye-bolt).\n\n. Unsnap LPU waist lobes.\n\n. Extend only one seat on forest penetrator.\n\n. Sit on seat facing flotation collar. Using elbows,\nseparate LPU waist lobes and pull shaft of penetrator\n\nclose to chest.\n\n. Pass safety strap under arm around back, and under other\narm. Connect safety strap and tighten.\n\n. Turn head down and to the left. Give thumbs up signal\nto helo-hoist operator.\n\n6. Upon clearing water, cross feet.\n\n18AC-NFM-00-(70-15)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page68_1.png",
+    "text": "F/A-18A/C TYPICAL\n\nVERTICAL FIN ENGINES\nVENT TANK ~~ 4\nFUSELAGE\n\nTANK 3 VENT TANK\n\n(RIGHT ENGINE FEED)\n\nTANK 2\n(LEFT ENGINE FEED)\n\nDFIRS <3 |\n\nAIR\nREFUELING\nPROBE\n\nSECONDARY\nPOWER SYSTEM\n@ APU\nBOARDING — CONDITIONING © LEFT & RIGHT AMAD\n[1 > LOX LADDER UNIT ® Fuel Pumps\nol @ Air Turbine Starters\n2 » ; @ Generators\nCONCENTRATOR [71> Aircraft 161353 THRU 164068 e Hydraulic Pumps\n\n[2 > Aircraft 164196 AND UP\n\n[3_> Aircraft 164627 AND UP\n\n18AC-NFM-00-(5-1)31-SCAN"
+  },
+  {
+    "path": "./data/pdf_images\\page69_1.png",
+    "text": "LOT\n\nLOT\n\nLOT\n\nLOT\n\nBLOCK 5 (3)\n\n161353, 161358, 161359\n\nBLOCK 6 (8)\n161361 thru 161367\n161519\n\nBLOCK 7 (9)\n161520 thru 161528\n\nBLOCK 8 (10)\n\n161702,161703,161705,\n161706,161708,161709,\n161710,161712,161713,\n\n161715\n\nBLOCK 9 (17)\n161716, thru 161718,\n164720 thru 161722,\n161724 thru 161726,\n161728 thru 161732,\n161734 thru 161736\n\nBLOCK 10 (23)\n161737 thru 161739,\n161741 thru 161745,\n161747 thru 161761\n\nBLOCK 11 (17)\n161925 thru 161931,\n161933 thru 161937,\n161939 thru 161942,\n\n161944\n\nBLOCK 12 (20)\n161945, 161946,\n161948 thru 161965\nBLOCK 13 (22)\n161966 thru 161987\nBLOCK 14 (18)\n162394 thru 162401,\n162403 thru 162407,\n162409 thru 162412,\n162414\n\nBLOCK 15 (28)\n162415 thru 162418,\n162420 thru 162426,\n162428 thru 162444\n\nBLOCK 16 (33)\n169445 thru 169477\n\nF/A—1BA\n\nLOT\n\nBLOCK 17 (24)\n462826 thru 162835,\n162837 thru 162841,\n162843 thru 162849,\n162851, 162852\n\nBLOCK 18 (25)\n162853 thru 162856,\n162858 thru 162863,\n162865 thru 162869,\n162871 thru 162875,\n162877 thru 162881\n\nBLOCK 19 (27)\n162882 thru 162884,\n162886 thru 162909\n\nBLOCK 20 (24)\n163092 thru 163103,\n163105 thru 163109,\n163111 thru 163114,\n163116 thru 163118\nBLOCK 21 (26)\n163119 thru 163122,\n163124 thru 163145\n\nBLOCK 22 (30)\n163146 thru 163175\n\nF/AIBA F/AI8B\n\nF/A—18B\nBLOCK 5 (4)\n161354 thru 161357\nBLOCK 6 (1)\n161360\n\nBLOCK 8 (4)\n161704, 161707, 161711,\n161714\n\nBLOCK 9 (4)\n161719, 161723, 161727,\n161733\n\nBLOCK 10 (3\n161740, 161746, 161924\n\n7\n-( BLOCK 11 (3)\nLOT 161932, 161938, 161943\n6 | BLOCK 12 (1)\n161947\nBLOCK 14 (3)\n162402, 162408, 162413\n{ BLOCK 15 (2)\n162419, 162427\nBLOCK 17 (3)\n162836, 162842, 162850\nBLOCK 18 (4)\n162857, 162864, 162870, 162876\nBLOCK 19 (1)\n162885\nBLOCK 20 (3)\n163104, 163110, 163115\nBLOCK 21 (1)\n163123\n\nBLOCK 22 (0)\n\nLOT\n\nLOT\n\nLOT\n\n1BAC—NFM—O0—(3-1)17—CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page713_1.png",
+    "text": "POS/XXX UPDATE SCALE MARK DATA\nOPTION OPTION OPTION OPTION OPTION\n\nWAYPOINT/OAP\n\nPOs/INS UPDT ae MK 2 DATA OPTION\nTCN 3307/ I2q \\\\ NI, |\n7“ 9 UP ARROW\n, =\n\nWAYPOINT/\nOAP/MK\n\nSELECTED\nDOWN ARROW\nae OPTION\n0:00.00 2' NAVDSG\nHSEL ! OPTION\nO80!\n\n050°\nSENSORS L4MAP TIMEUFC AUTO SEQ #\n\nOPTION\n\nZo4\n\n!\nL\ns\n\n4\nD\nE\nVv\nE\nc\n\nro>\n\nSENSORS L4MAP Shir AUTO\nOPTION “{ OPTION OPTION\n\nHSI TOP LEVEL DISPLAY\n\nMENU\n\n2> OOO Oyo\n\nL1_> 163985 AND UP\nEXCEPT HI\n\n18AC-NFM-00-(113-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page714_1.png",
+    "text": "INS MODE\nSELECT\nKNOB\n\nSENSOR CONTROL PANEL\n\nCOURSE\nSELECT\nSWITCH\n\nNot\n\nILS\nCHANNEL ILS/UFC\nPUSHBUTTONS MAN SWITCH\n\nTACAN VOLUME\nCONTROL KNOB\n\nCRYPTO MODE 4 MASTER\nHOLD DIS/AUD EMERG\n\nCOMMUNICATION CONTROL PANEL\n\n18AC-NFM-00-(113-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page722_1.png",
+    "text": "POS/ADC UPDT SCL/10 MK2 DATA\n100°/ 7.2\n46 \\ ty\nst” 46 N \\ 6\n\nN\n\\ N 38° 15' 06\"\n122 ° 30' 30\"\nSV HDG 000°\nCV SPD 17KTS\n\na\nRap\n—» av<é eS\n\nCol\n\nQUAL: NO ATT\nTIME: 1:38\nWYPTS\n\n—\n\nCV MAN\n\nQUAL: 18:6\nTIME: 2:08\n\nQNO< PZ\n\n=fimoH\n\n—— RF OR CABLE\nCARRIER ALIGN\nMANUAL CARRIER ALIGN DISPLAY DISPLAY\n\nALIGNMENT\n\nALN TIME=0322 AO=0.3 AC=6\nPOST\nALF=359.4 TH=359.4 CALF=0\nBMON\nPSI=000.0 PH=359.4\n\n[we] Lv] fos [us] [on] [eon [5\n\nNS wa\n\nINS MAINTENANCE ALIGN 1 DISPLAY MANUAL CARRIER ALIGN OPTIONS\n\n1BAC-NFM-00-{74—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page725_1.png",
+    "text": "POS/ADC UPDT SCL/10 MK2\n00° 7.2 4 \\ \\ f F\nN\n\n‘ N 41° 17! 04\"\nW 117° 40' 00\"\n\nGRND\n\nQUAL: 18:8\nTIME: 1:08\n\nGROUND ALIGN DISPLAY\n\nWYPT 0\nN 41° 17\" 04\"\nN 41817\" 04\" W 117° 40' 00\"\nWao ao\" GRID 41QNJ123456\nWSPD 10 KT ELEV 990 FT\nYEST o\nW DIR 140\" ° ; Q/S RNG $5000 FT\nMVAR E 17° 40 Of GRID GRID HoNigb7e04\n\nTOT 00:00:00 GSPD 0000\n\nworeo anc\nPer)\n\n>>\n\nwv\n1-2-4-7-11-12-14-17\n\nSS N/C AMER\nBARO RADAR PHILIPPINES\n\n25000 5000 CLARKE 66\n\nI\nN\n$s\nCc\nK\n1\nR\nE\nF\nWw\nP\n$s\nE\nQ\n1\n\nonmcoemn AN<=\n\nDATA OPTION DISPLAY DATA OPTION DISPLAY\nA/C DATA SELECTED WYPT/O DATA SELECTED\n\n1BAC-NFM-00-{75-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page726_1.png",
+    "text": "Pos/ADC UPDT SCL/10 MK2 DATA\n\n2.2 330°/ 8.1\n10:93 Voor, 08:57,\n\nSTL N 6\né \\ p\nN \\ »>\nE\n\n-\nea\n\ni}\nL\n$\nD\n(\nVv\nE\nc\n\nNO<>Z—a— o§ —e 40<=\n\nALIGN TIME\nFLASHES IF\nRADAR IS NOT\nAVAILABLE\n\n2OomM\n\nINS MODE SELECT KNOB\n\nCONT PVU IS SELECTED WHEN RADAR IS ON\nAND IFA IS SELECTED (OPTION IS BOXED).\n\nCONT PVU OPTION IS NOT DISPLAYED IF\nRADAR IS OFF. INFLIGHT ALIGN DISPLAY\n\n18AC-NFM-00-(76-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page74_1.png",
+    "text": "FROM FLIGHT IDLE FROM MILITARY\n\nFy Fy\nWw Ww\n2 Q\n3S ra)\n2 2\ni i\nlu lu\na a\n> >\nE E\n5 5\n<f <f\n\nMACH NUMBER MACH NUMBER\n\n. 1BAC-NFM-00-(6-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page750_1.png",
+    "text": "COMMAND\nHEADING\n\nSTEERING 020 030\nMARKER |\n\n7 ae\n\nHUD STEERING DISPLAY\n\nBEARING TO RANGE TO\nWYPT OR OAP\n\nTIME-TO-GO TO\nWYPT OR OAP\n\n(OR WYPT)\nWAYPOINT/OAP\n\nBEARING\nPOINTER\n\n90:06:21 24 ,\nEL\n\nHS\nooo°\n\nHI STEERING DISPLAY\n\n18AC-NFM-00-(80-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page751_1.png",
+    "text": "STEERING | |\n\nA\n\"™N\n\nARROW\n\n6.2 $e\nn° -O-\n\nM 0.38\nG1.0\n00:06:21\nZt\nSt\n/\n\nHUD STEERING DISPLAY\n\nPOS/INS UPDT SCL/20 MK2 DATA\nCOURSE 000°/ 10.2 1 3g 330°/\nSELECT , zs | a\nSWITCH G ‘ -\n\nYY A E\n\nHDG CRS ~ + |\n\n@ ©\n\nWAYPOINT\nSYMBOL\n\n~ SENSORS L4MAP K,\nOr SELECTED\nCOURSE\n\nHI STEERING DISPLAY\n\nCOURSE\nLINE\n\n1BAC-NFM-00-(81—-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page752_1.png",
+    "text": "+ pes |\n\nHUD STEERING ARROW HUD STEERING ARROW\n(CROSSING A COURSE LINE) (INTERCEPTING A COURSE LINE)\n\n18AC-NFM-O0-(81-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page756_1.png",
+    "text": "COMMAND\nHEADING\nMARKER\n\nGROUND\n\nSPEED\nX 7.0 TT ~~ 7\nCUING M 0.38\n\n61.0 d\n\n/“ ET00:00\n\n/\n\nHUD STEERING DISPLAY\n\npata NUP NoRM\n\nSEQUENTIAL\nSTEERING\nLINES\n\nDATA\n\n3 / 300°/8.7\n¢ A 6 00:02:15\n\n/\n7\nE\n\n4107. d 2506\n4006 REQD\n\nHI STEERING DISPLAY\n\nGROUND\nSPEED\nREQUIRED\n\nSEQUENCE OPTION\nSELECTED (SEQUENCE\nLINES DISPLAYED)\n\nAUTO SEQUENTIAL STEERING\nSELECTED (AUTO AND WYPT\nBOXED)\n\n18AC-NFM-00-(118-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page757_1.png",
+    "text": "it | 040 4\n\n_\n°\n\n7.0 —_->—_\nM 0.38\n\n°\n\n\\\nyg «| 182 TCT\n\nBEFORE\nHUD NAVDSG DESIGNATION DISPLAY\n\nDATA DATA\n110°/16.2 110°/14.2\n3:44 2:44\n\nBEFORE NAVDSG O/S SELECTED\nNAVDSG SELECTED OR\nSELECTED i TDC PRESSED\n\nNAVDSG OF A WAYPOINT NAVDSG OF AN OAP\n\n. 18AC-NFM-O0-(119-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page758_1.png",
+    "text": "DATA\n\nSCL/20. MK 2\n\n090°/16.2\n\\ 3] 1 a\nf y\n\nCSEL\nTIMEUFC AUTO\n\nBEFORE\n\nA=OmMM ONnU<>Z4—U—_p  49<=\n\nSCL/20 MK 2\n\n:\n\nq\n090°7/ 00.0\n/ & 0:00:5:44\n12\n\n(TDC PRESSED)\n\nHl WAYPOINT OVERFLY DESIGNATION DISPLAY\n\nDATA\n090°/8.1\n35:\n\nSCL/20. MK 2\n\nf\n\n&\n\nCSEL\nTIMEUFC AUTO\n\nBEFORE\n\nSCL/20 MK 2\n\nHIE\n\nDATA\n4\n139°/3.0\n239\n\n(TDC PRESSED)\n\nHI OAP OVERFLY DESIGNATION DISPLAY\n\nNOTE\nHUD SYMBOLOGY FOR AN OVERFLY DESIGNATION\nIS IDENTICAL TO A NAVDSG.\n\n18AC-NFM-00-{120-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page765_1.png",
+    "text": "COMMAND HEADING\nSTEERING POINTER\n\n320\n\nHUD STEERING DISPLAY\n\nTACAN\nBEARING\n\nTACAN STATION\nTIME-TO-GO\n\nTACAN\nPUSHBUTTON\n\nTACAN\nSTATION\n\nIDENTIFIER\n\n00:00:00 21\nSEL.\n\nH\n50°\n\nTACAN\nLOCATION\nSYMBOL\n\n2680T | 2606\n\n/\n\nHI STEERING DISPLAY\n\nSLANT RANGE\nTO TACAN STATION\n\n1BAC-NFM-00-(86-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page766_1.png",
+    "text": "STEERING\nARROW 320\n\naN\n\n5 5\n\n6.2 $ o_ dh\n\nM 0.98\n61.0\n\n00:00:00\n\nHUD STEERING DISPLAY\n\nCOURSE TACAN\nLOCATION\n\nTACAN\n\nPUSHBUTTON +O\n00:00:002\" , ip)\nHSEL\n\n050°\n\nHI STEERING DISPLAY\n\nSLANT RANGE\nTO TACAN STATION\n\nSELECTED\nCOURSE\n\n18AC-NFM-00-(123-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page767_1.png",
+    "text": "fe [i] [] BS ve) i] x]\n\nNS LL” NS\n\n@ UFC SELECTED WITH ILS SWITCH @ MAN SELECTED WITH ILS SWITCH\n(ON COMMUNICATION CONTROL PANEL} (ON COMMUNICATION CONTROL PANEL)\n\n® ILS FUNCTION PUSHBUTTON SELECTED\n(ON UFC)\n\n18AC-NFM-GO-(117-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page769_1.png",
+    "text": "ON CENTERLINE FLY LEFT\n\nFLY DOWN\nFLY RIGHT FLY DOWN\nFLY DOWN CL)\n\nN oN\n\n—~\n™ —\n\n~ —\n™ — |\n\\ ™\nFLY LEFT\nGLIDESLOPE ON GLIDESLOPE\n\\\n\nFLY RIGHT\nON GLIDESLOPE \\\n\none\n\nFLY UP\n\n~\n\nem roo fore] Zod\n\nro>\n\nON CENTERLINE\n\nFLY UP\nFLY RIGHT\n\nFLY UP AZIMUTH\nDEVIATION\nBAR\n\nILS STEERING DEVIATION\n\nSELECTED BAR\n\nMINIATURE\nAIRCRAFT\nELEVATION\nDEVIATION STANDBY ATTITUDE\n\nBAR REFERENCE INDICATOR\n\nELEVATION AZIMUTH\nDEVIATION DEVIATION\nBAR\n\nAZIMUTH\nDEVIATION\n\nBAR WATER LINE\nVELOCITY SYMBOL\n\nVECTOR\n\n! \\\n51__ | _—I5\n\nHUD STEERING DISPLAY\nELECTRONIC ATTITUDE DISPLAY\n\n1BAC-NFM-00-(88-1)31—-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page776_1.png",
+    "text": "UFC AUTOPILOT OPTIONS\n(HEADING HOLD ENGAGED)\n\nLINK 4 DISPLAY\n\n[ve] [=] Ee) Les] [om] len] [oe\n\nNS wea\n\nUFC AUTOPILOT OPTIONS\n(T/C MODE ENGAGED)\n\n1BAC-NFM-00-(92-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page778_1.png",
+    "text": "AYP| | IFF | |TCN D/L OFF\n\nNS Le\n\nUFC AUTOPILOT OPTIONS\n(HH MODE ENGAGED)\nWITH CPL OPTION, TC OR ACL MODE AVAILBLE\n\nOOUOddO\n\nLINK 4 DISPLAY\n\n[ve] Le] foo [es] [or] [son [5\nNS 7\n\nUFC AUTOPILOT OPTIONS\n(ACL COUPLED)\n\n1BAC-NFM-00-(93-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page779_1.png",
+    "text": "HUD DATA LINK\nSITUATION STEERING SELECTED\n\n18AC-NFM-00-(94-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page780_1.png",
+    "text": "20,000 FT. HOLD AT MARSHAL\n\n35 MILES UNCOUPLE AND HOLD\nOR REMAIN COUPLED\nAND START DESCENT\nFROM MARSHAL\n\n-T/C COUPLED\n-BALT DISENGAGED\n-CMD A/S CHANGE\n\nMARSHAL TO RECEIVED\n\nTOUCHDOWN 20,000 FT.\n\nMACH 0.8 -T/C COUPLED\n\nNe oe -BALT ENGAGED\n~CMD ALT CHANGE\nRECEIVED\n\n-T/C COUPLED\n-BALT ENGAGED\n\\ —COMMAND HEADING\nCAPTURED\n\\ -T/C COUPLED\n~BALT ENGAGED\n~AIRCRAFT TURNING\n\n35,000 FT.\nMACH 0.8\n\n-ACL MODE\nSELECTED\n\nMAXIMUM RANGE,\n\nLIMITED BY TRACKING \\\nAND DATA LINK MAX\n\nRANGE\n\nAt the pilot has selected ACL mode on the HI and the onboard system is in test, as noted on the link 4 display. The HH mode has been engaged as shown by\nthe other autopilot option being displayed on the UFC. D/L command information may be shown on the link 4 display and the HUD during test.\n\nCQ) ACL MODE SELECTED (SYSTEM IN TEST)\n\nTMD A/S 270)SCL/160\nMD ALT 35000 A\n€MD ROD TI WS 0)\n24 q so,\n\n7\n\nAt @) the test is complete and link 4 display shows ACL 1 onboard capability as well as total loop T/C capaibilty. The pilot has coupled to the uplinked T/C\ncommand heading and has engaged the BALT altitude hold mode. The aircraft is banking to capture the uplinked command.\n\n1BAC-NFM-00-(95-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page781_1.png",
+    "text": "@) T/C COUPLED AND BALT ENGAGED (TURNING TO CAPTURE HEADING)\n\nTMD AVS 270/SCL/160\n€MD ALT 35000\n€MD ROD} \\ 139\no \\ Ww { ‘\n‘ 33\n24 4\n~ a\n\nAt ® the aircraft has captured the desired T/C command heading and is holding an altitude of 35,000 feet.\n\nGB) T/C COUPLED AND BALT ENGAGED (COMMAND HEADING CAPTURED)\n\nCPLD HDG\n\nXX.X AM\n--15\n\n‘\\\n\n10lL__ Vv ——10 \\\n| | \\\n\nAt oC the uplinked T/C command altitude (CMD ALT) and rate of descent (CMD ROD) has just changed, as indicated by the underlines on the link 4 display. The\n\nDATA legend is flashed on the HUD for 10 seconds to inform the pilot that new information is displayed on the link 4 display. The new altitude and rate of descent\ncommands inform the pilot to descend to 20,000 feet at a descent rate of 4,000 feet per minute.\n\n() T/C COUPLED AND BALT ENGAGED (CMD ALT CHANGE RECEIVED)\n\nyo\n\nDATA\nCPLD HDG\nXX.X AM\n\n‘\\\n\n1BAC-NFM-00-(95-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page782_1.png",
+    "text": "At © the pilot has leveled off at the new altitude. A new uplinked command airspeed has also been received and\n\nthe pilot has established the new airspeed which maintains 0.8 Mach at 20,000 feet as commanded. With the new altitude\nestablished, the pilot may reengage BALT hold.\n\n6) T/C COUPLED AND BALT DISENGAGED (CMD A/S CHANGE RECEIVED)\n\nTMD A/S 375)/SCL/160\nA 0000] vy\n\nUL)\nMD ROD xo! Vas\n\nyo}\n\n10ol__ Vv ——l0\n\nfry. \\\n\nAt G the aircraft is set up to hold in the marshal pattem at 20,000 feet. The uplinked D/L commands have been\n\nremoved from the displays due to receipt of the uplink NOT CMD. The carrier does not attempt to issue data link\n\ncommands while the aircraft is holding in marshal since the uplinked command mechanization is not structured to\nprovide aid during holding.\n\n© BALT ENGAGED-T/C UNCOUPLED (HOLDING IN MARSHAL PATTERN)\n\nso\n& yo\n\na |\n2.0 DATA\n\nM 0.80 35.0 AM\nG10 5) ys\n\n“ ~\n\n/ l-- 9 _LI! \\\n” ; H \\\n\nThe pilot is given, via carrier control, a marshal departure time and a TACAN range and bearing window for departure\n\nat the designated time. Once on the outboard leg for marshal departures, the uplinked D/L command information\n\ncommand\nheading, altitude, rate of descent and airspeed) may be uplinked and displayed.\n\n1BAC-NFM-00-(95-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page783_1.png",
+    "text": "ACL COUPLE AVAILABLE\n\n-ACL RDY DISPLAYED\n\n-MODE 1 DISPLAYED\n\n-LATERAL AND LONGITUDINAL\nCOMMANDS EQUAL ZERO\n\nPILOT COUPLES AND REPORTS\n\n-CMD CONT RECEIVED\n\n-LATERAL AND LONGITUDINAL\nCOMMAND ACTIVE\n\nACQUISITION (3,.5 TO 5 MILES)\n\nPAST TIPOVER\n-ON GLIDE SLOPE\n\n10 SEC RECEIVED\n-DECK MOTION\nCOMPENSATION\n\nADDED\n\nRANGE (MILES) ———™= 4 8 10\n\n-ACL RDY RECEIVED AND DISPLAYED\n-D/L STEERING RECEIVED AND\nDISPLAYED DEPART MARSHAL\n-T/C COUPLE AVAILABLE\nLND CHK RECEIVED\n(4 TO 6 MILES)\n-T/C COUPLED\n-R ALT ENGAGED\n-ATC ENGAGED\nILS AZIMUTH ~~\nSTEERING AVAILABLE ~4,000 FEET/MINUTE\n—— —— — ~ 5,000 FEET\n<< $$$ -2, 000 FEET/MINUTE\n\n1,200 FEET\n\nte TO LANDING\na ENGAGE\nATC AND ALTITUDE HOLD\nIF DESIRED.\n\nENTRY WINDOW\n630 FEET BY 10,000 FEET\n4 TO 8 NAUTICAL MILE RANGE\n\nAt One pilot started the descent to platform. The aircraft has again been coupled to unlinked T/C command heading and is banking to capture this heading.\nThe pilot has established the desired airspeed and desent rate as commanded via uplinked commands shown on the link 4 display. The desired result of following these\ncommands will be to arrive on platform at a 5,000-foot altitude and 20 nautical mile range, then to shallow the descent rate to 2,000 feet per minute.\n\n(1) DEPARTING MARSHAL\n(T/C COUPLED, BALT DISENGAGED VIA CSS OR\nUFC BALT OPTION BUTTON ACTUATION)\n\nTMD AVS 250/SCL/160\nCMD ALT 5000}\n€MD ROD. —\n4000) 94\n\nCPLD HDG\n33.0 AM\n\n1BAC-NFM-00-(96-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page784_1.png",
+    "text": "At @ the aircraft is on platform with a descent rate of 2,000 feet per minute intended to arrive at a 1200-foot altitude at approximately 10 nautical miles.\nValid ILS situation steering Is available and has automaticly been selected for HUD display when initially received. (The pilot may deselect the ILS steering via\n\nthe HI ILS steering select button when desired.) The pilot may utilize the ILS azimuth deviation to manually capture andjor maintain the desired azimuth alignment\nfor approach, but the glide slope ILS deviation bar should not be used until tipover, since it will be indicating fly—up.\n\n(2) ILS AZIMUTH STEERING VALID\n\nTMD AVS 250/SCL/160\nCMD ALT 1200] yy\nEMD ROD si la\n2000] \\ q\n\nN\n\nCPLD HDG\n\n/ 10lL__ —_—110 \\\n/ 3 1 1 \\\n\nAt ® the aircraft has leveled at 1,200 feet, in the landing configuration, with auto throttle control engaged, as indicated by the ATC cue on the HUD. The\nunderlined legend on the link 4 display shows that the uplinked LND CHK discrete has been received. This cue indicates that positive SPN-42 communication\n\nhas been established as well as cuing the pilot that the aircraft should be in the landing configuration and at the approach speed. From this point in the approach,\nthe HUD velocity vector should be caged to enhance and/or optimize the angle of attack bracket and situation steering display on the HUD.\n\n@ LND CHK DISCRETE RECEIVED\n(LANDING CONFIGURATION WITH T/C COUPLED,\nRALT AND ATC ENGAGED)\n\nTMD A/S T30)SCL/160\nCMD ALT 1200] vy\n€MD ROD st la\ni) \\ q\n\nXN\n15\n~\n\n/\n\nsl__ vy —-I5\n\nfry. \\\n\n1BAC-NFM-00-(96-2)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page785_1.png",
+    "text": "At @) the pilot has engaged radar altitude hold (RALT)at 1,200 feet. The uplinked ACL RDY legend indicates that the SPN-42 has acquired the aircraft\n\nand is now uplinking longitudinal and lateral commands to the aircraft equal to O feet per second and O° roll attitude. The MODE 1 legend indicates that ;\nthe total loop is capable of, and/or ready for, a dual—axis couple of the uplinked commands to the FCS. The FCS is still coupled to the uplinked command heading\nas indicated by the CPLD HDG legend displayed on the HUD. Also available is the uplinked D/L situation steering shown via the tadpole display on the HUD.\n\nThe pilot has deselected the ILS steering, but may select or deselect either or both ILS and D/L situation steering to monitor coupled control progress.\n\n(4) ACQUISITION\n(T/C COUPLED, ACL RDY RECEIVED, D/L STEERING AUTOMATICALLY\nDISPLAYED, AND PILOT HAS DESELECTED ILS STEERING)\n\nFLASHING\n\nTMD A/S T30)SCL/160\nCMD ALT 1200] vy at\n€MD ROD st lay\noN q ‘ ACLI\n\\ 24\n15 7\n~ o\n\n/\n\nSl__ vy —-15\n\nfryv\\\n\nAt ©) the pilot has uncoupled from the uplinked T/C command heading by deselection of the CPL option on the UFC. When the aircraft is not coupled, the\nACL RDY legend is displayed on the HUD. To couple the aircraft to the dual—oxis uplinked longitudinal and lateral commands requires that the pilot again select\nthe CPL option on the UFC.\n\n(5) ACL COUPLE AVAILABLE\n(T/C UNCOUPLED BY PILOT)\n\n~\n\\\n\n5l_-- vy —-15\n\nfr ya \\\n\n1BAC-NFM-00-(96-3)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page786_1.png",
+    "text": "At @) the aircraft is now coupled to the uplinked dual-axis commands as indicated by the CPLD P/R legend display on the HUD. The pilot has reported\ncouple to the camier control via voice communication and subsequently the aircraft has received the uplinked CMD CNIR discrete indicating that the uplinked\ne link 4 an\n\nlonaitudinal and lateral commands are active. The uplinked commands of heading, airspeed, altitude, and rate of descent are removed from\nHUD displays by the MC when the aircraft is coupled to the ducl-oxis commands as these commands are no longer updated by the carrier. The pilot will be\nadvised via voice gormyrication as he approaches tipover but no aircraft control action is required on his part. (At least 30 seconds of coupled control is\n\ndesirable prior to tipover.\n\n(6) ACL MODE COUPLED BY PILOT\n(CMD CNT RECEIVED)\n\nFLASHING\n\nAt @D the aircraft is past tipover on the desired glide slope and azimuth as indicated by the alignment of the D/L tadpole inside the velocity vector on the HUD.\n\n@) PAST TIPOVER\n(ACL MODE COUPLED, ON GLIDE SLOPE)\n\ncow.\n\nISCL/T60|\n\\ Yo\nf\nCPLD P/R\n\nATC\n\n1BAC-NFM-00-(96-4)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page787_1.png",
+    "text": "At approximately 12.5 secconds prior to touchdown, the uplinked 10 SEC descrete is received and displayed on both the HUD and the link 4 displays. Receipt\nof the 10 SEC discrete indicates that deck motion compensation is now being added to the uplinked longitudinal and lateral commands.\n\n10 SEC DISCRETE RECEIVED\n(ACL COUPLED, ON GLIDE SLOPE)\n\n10 SEC\nCPLD P/R\nATC\n0.4 AM\n\nAt approximately 1.5 seconds from touchdown the uplinked longitudinal and lateral commands are frozen. At touchdown (weight on wheels), the aircraft\nuncouples from the uplinked commands.\n\n18AC-NFM-00-(96-5)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page791_1.png",
+    "text": "SKY POINTER\n\nSPHEROID\n\nELEVATION\nDEVIATION\nBAR\n\nPOINTER SHIELD\n\nMINATURE\nAIRPLANE\n\nTEST SWITCH\n\nRATE OF TURN\n\nBANK ANGLE\n\nINDEX BANK SCALE\n\nAZIMUTH\nDEVIATION\nBAR\n\nOFF FLAG\n\nPULL TO\nCAGE KNOB\n\nSLIP INDICATOR\nINCLINOMETER\n\n18AC-NFM-00-(97-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page95_1.png",
+    "text": "USABLE FUEL\nTANK GALLONS| POUNDS | POUNDS\nJP-5 JP-4\na\nNumber 2\nLeft Engine Feed 265 1,790 1,710\nNumber 3\n\nTotal Fuselage 1,419 9,650 9,230\n\nctedmgh |S] 8 | 50 | ean [50] HO |\nhina Wigs [70 ed] a0 |\n\nTotal Internal 1,589 10,810 10,330\n\nEXTERNAL TANK(S)\n\nElliptical Wing\n\nor Centerline Tank mio noe\nCylindrical Wing\nor Centerline Tank 2240 2,180\n\nNOTES\n\n@ The fuel quantities, in pounds, are rounded\noff to the nearest 10 pounds. Therefore, the\nactual gallons times 6.8 or 6.5 will not necessarily\nagree with the pounds column.\n\n@ Fuel weights are based on JP—5 or JP—4 at\n6.8 or 6.5 pounds per gallon and a temperature\nof 15°C (59\"F}. INTERNAL\nWING TANK\nTANK 3\nRIGHT ENGINE\nFEED\nAIR\nREFUELING\nPROBE\n\nLEFT ENGINE\nFEED\n\nFUEL QTY\n\nLB X 1000\n\nnoc\n\nTOTAL LBS\n\nLEFT\n\nINTERNAL\nWING TANK\n\nRIGHT\n\n18AC-NFM-00-(10-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page97_1.png",
+    "text": "POS/INS UPDT\n\n000°/27.5\n\n5:46\n“FUEL REMAINING\nAT TACAN STATION\nDISTANCE FROM TACAN\nSTATION WHERE PILOT\nSHOULD BEGIN DESCENT\n\nSCL/10\n\nSTL\nXXXXX\nXX\n\nTACAN\nHSI\n\nHOME FUEL\nADV-FPAS\n\nFUEL FPAS\n\nSUPT MENU\n\nWAYPOINT/TACAN\nSTEERING AREA\n\nOPTIMUM\nRANGE\nAREA\n\nCLIMB/DESCENT\nSPEED\n\nDEFAULT\nAREA\n\nA\n\n300\n\nXXXX §[— —45\n442\n\n10.6 WYPT\n\nHEAD UP\nDISPLAY\n\n330°/18.7\n00:00:00\n\nXXXXX\nFUEL REMAINING a\n\nXX\nAT WYPT\n\nDISTANCE FROM WYPT\nWHERE PILOT SHOULD\nBEGIN DESCENT\n\nDISPLAY\n\nCURRENT\nENDURANCE\nAREA\n\nCURRENT\n\nCURRENT\n\nRANGE\n254\n68\n281\n\nENDURANCE\nTO 2000 LB\n\nBEST MACH\nTO 2000 LB\n\nNAV TO\nWYPT 12\n\nFUEL REMAIN\n1034\n\nALTITUDE\nMACH\nTO 2000 LB\n\nDEFAULT: TEMP DRAG FF\n\nOPTIMUM\n\nENDURANCE\n\nAREA\nFPAS DISPLAY\n\n18AC-NFM-00-(318-1)31-CATI"
+  },
+  {
+    "path": "./data/pdf_images\\page99_1.png",
+    "text": "TO EMERGENCY\nPOX KKK KKK KKK KK KKK KKK AAS xX Reet PROBE\n\nma\n\nREADY CORBINE UNIT ACCUMULATOR\n\nENGINE £0505\ngo <o_ EEE\neretets\nEXTERNAL\nAIR\nRECEPTACLE\n\nOe\n\n<\nXKRKD\n\nORR\n\naN\n\nENG CRANK\n\nP62 HAND PUMP\n\n| FROM\n\nHYD 2B\n\nNZ\n\n%\nas\n\nATS CONTROL\nVALVE\n\nAIR TURBINE =\n\nSTARTER ATS CONTROL\nVALVE\n\nGENERATOR GENERATOR\nAIR TURBINE\nSTARTER\n\nFUEL Bs aR E\neUEL SOLAI FUEL PUMP //.\n\n|\noa rt\n\nLEFT AMAD RIGHT AMAD\n|\n\nMANUAL\nDECOUPLER SHAFT SHAFT DECOUPLER\n\n......-~«Y SECONDARY\n\nCT PREPAC\nREGULATOR\n\nLEFT RIGHT\nENGINE ; a ENGINE\n—r— Electrical Circuit\n\nXXX Hydraulic 2B <<\n\nMME APU or Ground Supplied Air prim ARY\n\nPRESSURE\nwaeees Engine Bleed Air REGULATOR\n\njOooS\n\nCheck Valve\n\nooo\n\n1BAC-NFM-O0-(1 1-1)31-CATI"
+  }
+]
