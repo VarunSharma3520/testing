@@ -1,16 +1,55 @@
-version: "3.8"
+networks:
+  rag_net:
+    driver: bridge
 
 services:
-  qdrant:
-    image: qdrant/qdrant:latest
-    container_name: qdrant
+  app:
+    image: my-python-app
+    container_name: rag_app
     restart: unless-stopped
     ports:
-      - "6333:6333" # HTTP / REST API
-      - "6334:6334" # gRPC
+      - "8000:8000"
+    depends_on:
+      - rag_model
+      - rag_db
     volumes:
-      - ./qdrant_storage:/qdrant/storage:z
-    # Optional: uncomment to set specific environment options
-    # environment:
-    #   QDRANT__SERVICE__GRPC_PORT: 6334
-    #   QDRANT__SERVICE__HTTP_PORT: 6333
+      - ./app:/app
+    environment:
+      RAG_DB_HOST: rag_db
+      RAG_DB_PORT: 6333
+      RAG_MODEL_HOST: rag_model
+      RAG_MODEL_PORT: 11434
+    networks:
+      - rag_net
+
+  rag_db:
+    image: qdrant/qdrant:latest
+    container_name: rag_db_cont
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage
+    networks:
+      - rag_net
+
+  rag_model:
+    image: ollama/ollama:latest
+    container_name: rag_model_cont
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama:/root/.ollama
+    environment:
+      OLLAMA_NUM_THREADS: 4
+      OLLAMA_MAX_LOADED_MODELS: 1
+    entrypoint: ["/bin/sh", "-c"]
+    command: >
+      "ollama serve &
+      sleep 5 &&
+      ollama pull llama3:latest &&
+      wait"
+    networks:
+      - rag_net

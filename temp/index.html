@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>📚 Semantic Book Search & Chat</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				background: #0f172a;
+				color: #e5e7eb;
+				padding: 40px;
+			}
+
+			h1,
+			h2 {
+				color: #f8fafc;
+			}
+
+			input,
+			textarea {
+				width: 60%;
+				padding: 10px;
+				font-size: 16px;
+				margin-bottom: 10px;
+				border-radius: 6px;
+				border: none;
+			}
+
+			button {
+				padding: 10px 16px;
+				font-size: 16px;
+				cursor: pointer;
+				margin-left: 5px;
+				border-radius: 6px;
+				border: none;
+			}
+
+			.card {
+				background: #1e293b;
+				padding: 15px;
+				margin-top: 15px;
+				border-radius: 8px;
+			}
+
+			img {
+				max-height: 160px;
+				margin-top: 10px;
+				border-radius: 6px;
+			}
+
+			a {
+				color: #38bdf8;
+				text-decoration: none;
+			}
+
+			#chatResponse {
+				background: #020617;
+				padding: 15px;
+				margin-top: 15px;
+				border-radius: 8px;
+				white-space: pre-wrap;
+				font-family: monospace;
+				max-height: 300px;
+				overflow-y: auto;
+			}
+
+			.error {
+				color: #f87171;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>📖 Semantic Book Search & Chat</h1>
+
+		<div>
+			<!-- ================= SEARCH ================= -->
+			<div>
+				<h2>🔍 Search Books (Do not demostrate actual AI)</h2>
+				<input id="query" placeholder="e.g. alien invasion, time travel" />
+			</div>
+			<div>
+				<h2>🔍 Query limit</h2>
+				<input
+					id="limit"
+					type="number"
+					value="3"
+					min="1"
+					max="10"
+					style="width: 80px"
+				/>
+			</div>
+			<button onclick="search()">Search</button>
+
+			<div id="results"></div>
+		</div>
+		<!-- ================= CHAT ================= -->
+		<h2>💬 Chat with LLM (Demostrate Actually AI)</h2>
+		<textarea
+			id="chatInput"
+			rows="3"
+			placeholder="Ask about books, authors, or sci-fi themes..."
+		></textarea
+		><br />
+
+		<button onclick="chat()">Non Streaming Ouput</button>
+		<button onclick="chatStream()">Stream Output</button>
+
+		<div id="chatResponse"></div>
+
+		<script>
+			/* ================= SEARCH ================= */
+			async function search() {
+				const q = document.getElementById("query").value.trim();
+				const limit = document.getElementById("limit").value || 3;
+				const container = document.getElementById("results");
+				container.innerHTML = "";
+
+				if (!q) {
+					container.innerHTML =
+						"<p class='error'>Please enter a search query.</p>";
+					return;
+				}
+
+				try {
+					const res = await fetch(
+						`/search?query=${encodeURIComponent(q)}&limit=${limit}`
+					);
+					const data = await res.json();
+
+					if (!data.results || data.results.length === 0) {
+						container.innerHTML = "<p>No results found.</p>";
+						return;
+					}
+
+					data.results.forEach((r, i) => {
+						container.innerHTML += `
+						<div class="card">
+							<h3>${i + 1}. ${r.name}</h3>
+							<p><b>Author:</b> ${r.author} (${r.year})</p>
+							<p><b>Similarity:</b> ${r.score}</p>
+							<p>${r.description}</p>
+							<img src="${r.image_url}" alt="cover">
+							<br>
+							<a href="${r.video_url}" target="_blank">▶ Watch related video</a>
+						</div>
+					`;
+					});
+				} catch (err) {
+					container.innerHTML = "<p class='error'>Search failed.</p>";
+				}
+			}
+
+			/* ================= CHAT ================= */
+			async function chat() {
+				const message = document.getElementById("chatInput").value.trim();
+				const responseDiv = document.getElementById("chatResponse");
+				responseDiv.innerText = "";
+
+				if (!message) {
+					responseDiv.innerText = "Please enter a message.";
+					return;
+				}
+
+				try {
+					const res = await fetch("/chat", {
+						method: "POST",
+						headers: { "Content-Type": "application/json" },
+						body: JSON.stringify({ message }),
+					});
+					const data = await res.json();
+					responseDiv.innerText = data.response || data.error;
+				} catch (err) {
+					responseDiv.innerText = "Chat failed.";
+				}
+			}
+
+			/* ================= STREAMING CHAT ================= */
+			async function chatStream() {
+				const message = document.getElementById("chatInput").value.trim();
+				const responseDiv = document.getElementById("chatResponse");
+				responseDiv.innerText = "";
+
+				if (!message) {
+					responseDiv.innerText = "Please enter a message.";
+					return;
+				}
+
+				try {
+					const res = await fetch("/chat_stream", {
+						method: "POST",
+						headers: { "Content-Type": "application/json" },
+						body: JSON.stringify({ message }),
+					});
+
+					const reader = res.body.getReader();
+					const decoder = new TextDecoder();
+
+					while (true) {
+						const { value, done } = await reader.read();
+						if (done) break;
+						responseDiv.innerText += decoder.decode(value);
+						responseDiv.scrollTop = responseDiv.scrollHeight;
+					}
+				} catch (err) {
+					responseDiv.innerText = "Streaming failed.";
+				}
+			}
+		</script>
+	</body>
+</html>

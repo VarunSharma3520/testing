@@ -1,0 +1,45 @@
+version: "3.9"
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant_cont
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage:z
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama_cont
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama:/root/.ollama
+    environment:
+      - OLLAMA_NUM_THREADS=4
+      - OLLAMA_MAX_LOADED_MODELS=1
+
+  python:
+    image: python:3.12
+    container_name: python_cont
+    restart: unless-stopped
+    tty: true
+    working_dir: /app
+    volumes:
+      - ./:/app
+    depends_on:
+      - qdrant
+      # - ollama
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: >
+      sh -c "
+      pip install --upgrade pip &&
+      pip install uv &&
+      uv sync &&
+      sh
+      "

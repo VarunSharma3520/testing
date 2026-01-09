@@ -116,7 +116,8 @@ collection_name = "test_collection"
 
 # --- Qdrant & encoder setup ---
 print("Initializing Qdrant client and sentence encoder...")
-client = QdrantClient(url="http://localhost:6333")
+# client = QdrantClient(url="http://localhost:6333")
+client = QdrantClient(url="http://qdrant:6333/")
 encoder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Create or verify collection

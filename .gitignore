@@ -8,3 +8,13 @@ wheels/
 
 # Virtual Environments
 .venv
+
+# ollama 
+ollama 
+
+# cloudflare
+cloudflared-linux-amd64*
+
+#me
+me.md
+

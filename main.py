@@ -29,7 +29,7 @@ prompt = PromptTemplate(
 )
 
 llm = ChatOllama(
-    model="gemma3:1b",
+    model="gemma:2b",
     temperature=0,
 )
 
