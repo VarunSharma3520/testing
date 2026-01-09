@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Self-RAG Master–Slave</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<style>
+			:root {
+				--bg: #0b132b;
+				--panel: #1c2541;
+				--accent: #3a86ff;
+				--text: #eaeaea;
+				--muted: #9aa4bf;
+				--border: #2f3b66;
+			}
+
+			* {
+				box-sizing: border-box;
+				font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+			}
+
+			body {
+				margin: 0;
+				background: linear-gradient(135deg, #0b132b, #1c2541);
+				color: var(--text);
+				min-height: 100vh;
+				display: flex;
+				justify-content: center;
+				/* align-items: center; */
+			}
+
+			.app {
+				width: 100%;
+				max-width: 900px;
+				background: transparent;
+				border-radius: 14px;
+				padding: 24px;
+			}
+
+			h1 {
+				margin: 0 0 6px 0;
+				font-size: 24px;
+				color: white;
+			}
+
+			.subtitle {
+				color: var(--muted);
+				margin-bottom: 20px;
+			}
+
+			.input-row {
+				display: flex;
+				gap: 10px;
+				margin-bottom: 16px;
+			}
+
+			input {
+				flex: 1;
+				padding: 12px 14px;
+				border-radius: 8px;
+				border: 1px solid var(--border);
+				background: #0f1a3a;
+				color: var(--text);
+				font-size: 15px;
+			}
+
+			input::placeholder {
+				color: var(--muted);
+			}
+
+			button {
+				padding: 12px 18px;
+				border-radius: 8px;
+				border: none;
+				cursor: pointer;
+				font-weight: 600;
+				font-size: 14px;
+				background: var(--accent);
+				color: white;
+			}
+
+			button.secondary {
+				background: transparent;
+				border: 1px solid var(--border);
+				color: var(--text);
+			}
+
+			button:hover {
+				opacity: 0.9;
+			}
+
+			.output {
+				background: #0f1a3a;
+				border: 1px solid var(--border);
+				border-radius: 10px;
+				padding: 16px;
+				min-height: 160px;
+				white-space: pre-wrap;
+				overflow-y: auto;
+				font-size: 14px;
+			}
+
+			.citations {
+				margin-top: 10px;
+				font-size: 13px;
+				color: var(--muted);
+			}
+
+			.footer {
+				margin-top: 16px;
+				font-size: 12px;
+				color: var(--muted);
+				text-align: right;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="app">
+			<h1>Self-RAG Master–Slave</h1>
+			<div class="subtitle">
+				Grounded Retrieval-Augmented Generation with Citations
+			</div>
+
+			<div class="input-row">
+				<input id="query" placeholder="Ask a question about the document..." />
+				<button onclick="send()">Ask</button>
+				<button class="secondary" onclick="stream()">Stream</button>
+			</div>
+
+			<div id="output" class="output"></div>
+			<div id="citations" class="citations"></div>
+			<div id="chunks"></div>
+
+			<div class="footer">For Demostration purposes only</div>
+		</div>
+
+		<script>
+			const output = document.getElementById("output");
+			const citationsDiv = document.getElementById("citations");
+
+			async function send() {
+				output.textContent = "Thinking...";
+				citationsDiv.textContent = "";
+				document.getElementById("chunks").innerHTML = "";
+
+				const q = document.getElementById("query").value;
+
+				const res = await fetch("/chat", {
+					method: "POST",
+					headers: { "Content-Type": "application/json" },
+					body: JSON.stringify({ message: q }),
+				});
+
+				const data = await res.json();
+
+				output.textContent = data.response;
+
+				citationsDiv.textContent =
+					"Citations: " + data.citations.map((c) => `[Chunk ${c}]`).join(", ");
+
+				// 🔎 Show exact chunks
+				const chunkDiv = document.getElementById("chunks");
+				chunkDiv.innerHTML = "<h3>Retrieved Chunks</h3>";
+
+				data.chunks.forEach((c) => {
+					const el = document.createElement("pre");
+					el.style.background = "#0f1a3a";
+					el.style.border = "1px solid #2f3b66";
+					el.style.padding = "10px";
+					el.style.marginTop = "8px";
+					el.textContent = `[Chunk ${c.id}]\n${c.text}`;
+					chunkDiv.appendChild(el);
+				});
+			}
+
+			async function stream() {
+				output.textContent = "";
+				citationsDiv.textContent = "";
+
+				const q = document.getElementById("query").value;
+
+				const res = await fetch("/chat_stream", {
+					method: "POST",
+					headers: { "Content-Type": "application/json" },
+					body: JSON.stringify({ message: q }),
+				});
+
+				const reader = res.body.getReader();
+				const decoder = new TextDecoder();
+
+				while (true) {
+					const { value, done } = await reader.read();
+					if (done) break;
+					output.textContent += decoder.decode(value);
+					output.scrollTop = output.scrollHeight;
+				}
+			}
+		</script>
+	</body>
+</html>

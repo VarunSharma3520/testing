@@ -120,14 +120,18 @@ import time
 
 collection_name = "test_collection"
 app = FastAPI(title="Semantic Book Search")
-llm = ChatOllama(model="llama3", temperature=0)
-templates = Jinja2Templates(directory="../temp")
+llm = ChatOllama(
+    model="nemotron-3-nano:30b-cloud",
+    temperature=0,
+    base_url="http://ollama_cont:11434",
+)
+templates = Jinja2Templates(directory="./temp")
 
 # --- Qdrant & encoder setup ---
 print("Initializing Qdrant client and sentence encoder...")
 # client = QdrantClient(url="http://localhost:6333")
 # client = QdrantClient(url="http://qdrant:6333/")
-client = QdrantClient(url="http://rag_db:6333/")
+client = QdrantClient(url="http://qdrant_db:6333/")
 encoder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Create or verify collection
@@ -153,9 +157,16 @@ else:
 collection_info = client.get_collection(collection_name=collection_name)
 points_count = collection_info.points_count
 
+
+@app.get("/health")
+def root():
+    return {"status": "ok"}
+
+
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
+
 
 @app.post("/chat")
 async def chat_endpoint(message: str = Body(..., embed=True)):
@@ -165,18 +176,20 @@ async def chat_endpoint(message: str = Body(..., embed=True)):
     try:
         # Call the LLM
         response = llm.invoke(message)
-        
+
         # Return the content
         return {"message": message, "response": response.content}
-    
+
     except Exception as e:
         return {"error": str(e)}
+
 
 @app.post("/chat_stream")
 async def chat_stream_endpoint(message: str = Body(..., embed=True)):
     """
     Stream LLM response back to client in chunks.
     """
+
     def generate():
         try:
             # Call the LLM
@@ -186,12 +199,13 @@ async def chat_stream_endpoint(message: str = Body(..., embed=True)):
             # Simulate streaming by yielding chunks
             chunk_size = 50  # characters per chunk
             for i in range(0, len(content), chunk_size):
-                yield content[i:i+chunk_size]
+                yield content[i : i + chunk_size]
                 time.sleep(0.05)  # simulate small delay
         except Exception as e:
             yield f"\n[Error]: {str(e)}"
 
     return StreamingResponse(generate(), media_type="text/plain")
+
 
 @app.get("/search")
 async def search(query: str, limit: int = 3):
@@ -206,16 +220,11 @@ async def search(query: str, limit: int = 3):
 
     results = []
     for h in hits:
-        results.append({
-            "score": round(h.score, 3),
-            **h.payload
-        })
+        results.append({"score": round(h.score, 3), **h.payload})
 
-    return {
-        "query": query,
-        "results": results
-    }
-    
+    return {"query": query, "results": results}
+
+
 if points_count == 0:
     print(f"Uploading {len(documents)} documents to Qdrant...")
     points = []
@@ -295,7 +304,7 @@ try:
         for rank, h in enumerate(hits, start=1):
             score = h.score if hasattr(h, "score") else h.get("score", 0)
             payload = h.payload if hasattr(h, "payload") else h.get("payload", {})
-            
+
             # Extract book details
             title = payload.get("name", "Unknown")
             author = payload.get("author", "Unknown")
@@ -311,7 +320,7 @@ try:
             print(f"   Image: {image_url}")
             # print(f"   Video: {video_url}")
             # print(f"   Page No: {h.id}")
-            
+
         print("-" * 60)
 
 except KeyboardInterrupt:

@@ -13,18 +13,22 @@ credentials
 secrets.yml
 secrets.yaml
 
-# Node.js
-node_modules/
-.npm/
-.yarn/
-.pnp.*
-dist/
-build/
-.next/
-.nuxt/
-.cache/
-.turbo/
-out/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.mypy_cache/
+.dmypy.json
+*.egg-info/
 
 # Version control
 .git/
@@ -43,6 +47,16 @@ out/
 .project
 .classpath
 .settings/
+
+# Documentation
+*.md
+README*
+LICENSE*
+CHANGELOG*
+docs/
+documentation/
+.readthedocs.yml
+mkdocs.yml
 
 # Tests & Coverage
 test/
